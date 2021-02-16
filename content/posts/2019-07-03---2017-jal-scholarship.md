@@ -8,7 +8,7 @@ category: 'Japan'
 tags:
   - 'JAL Scholarship'
 description: '2017 JAL SCHOLARSHIP PROGRAM의 1차 지원부터 3차 최종합격까지의 과정을 써 봤습니다. JAL 스칼라십 프로그램 후기가 인터넷 상에 굉장히 적어 준비하기 힘드실 텐데요, 제 기록도 남길 겸 정보공유도 하는 차원에서 이 후기를 올립니다.'
-socialImage: '/media/20200525-rakuten.jpg'
+socialImage: '/media/20190703-Japan_Airlines_logo-wordmark.png'
 ---
 
 2017 JAL SCHOLARSHIP PROGRAM의 1차 지원부터 3차 최종합격까지의 과정을 써 봤습니다. JAL 스칼라십 프로그램 후기가 인터넷 상에 굉장히 적어 준비하기 힘드실 텐데요, 제 기록도 남길 겸 정보공유도 하는 차원에서 이 후기를 올립니다. 기본적으로 회고록 형식이라 글이 조금 길고, 감정서술이 많을 수 있습니다. 양해 바랍니다.

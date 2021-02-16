@@ -3,9 +3,9 @@
 module.exports = {
   url: 'https://sungpyocho.github.io',
   pathPrefix: '/',
-  title: 'sungpyo.cho',
-  subtitle: 'Delving into web and sensor in Japan...',
-  copyright: '© 2020 Sungpyo Cho',
+  title: '',
+  subtitle: '일본 직장인 1년차 분투기',
+  copyright: '© 2020-2021 Sungpyo Cho',
   disqusShortname: 'sungpyocho',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Sungpyo Cho',
     photo: '/photo.jpg',
-    bio: 'Delving into web and sensor in Japan...',
+    bio: '일본 직장인 1년차. 분투중.',
     contacts: {
       email: 'korra0501@gmail.com',
       github: 'sungpyocho',
