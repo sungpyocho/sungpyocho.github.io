@@ -1,4 +1,155 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[sungpyo.cho]]></title><description><![CDATA[Delving into web and sensor in Japan...]]></description><link>https://sungpyocho.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 15 Sep 2020 17:04:40 GMT</lastBuildDate><item><title><![CDATA[일본 제조업 입사 6개월째 후기]]></title><description><![CDATA[고민 끝에 들어간 일본 제조업 대기업. 지금 생활을 돌아보며 쓴 이야기.]]></description><link>https://sungpyocho.github.io/posts/six-months-in-japanese-company</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/six-months-in-japanese-company</guid><pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;회사를-골랐던-계기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%9A%8C%EC%82%AC%EB%A5%BC-%EA%B3%A8%EB%9E%90%EB%8D%98-%EA%B3%84%EA%B8%B0&quot; aria-label=&quot;회사를 골랐던 계기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;회사를 골랐던 계기&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[sungpyo.cho]]></title><description><![CDATA[일본 직장인 1년차 분투기]]></description><link>https://sungpyocho.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 22 Feb 2021 11:14:38 GMT</lastBuildDate><item><title><![CDATA[[일본에서 절약하기] 1. 통신비]]></title><description><![CDATA[어떤 통신사를 골라야 하지? 일본에 온 사람이라면 누구나 고민하는 문제다. 스가 정권의 요금 인하 압박 하에 일본 통신사들은 무한경쟁 속에 내몰리는 중이다. 각 통신사의 요금제를 비교해보고, 가장 합리적인 요금제를 찾아본다.]]></description><link>https://sungpyocho.github.io/posts/japanese-mno-comparison</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/japanese-mno-comparison</guid><pubDate>Sun, 21 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;일본에서 어떤 통신사를 가입해야 할까?&lt;/p&gt;
+&lt;p&gt;일본에 온 사람이라면 누구나 고민하는 문제다. 통신비는 매달 나가는 고정지출이고, 한 번 고르면 갈아타기 귀찮아서 한 통신사를 계속 쓰는 경향이 있기 때문에 처음에 잘 골라야 한다.&lt;/p&gt;
+&lt;p&gt;우선 일본 통신사 시장의 최근 역사를 짚어보자.&lt;/p&gt;
+&lt;h2 id=&quot;0격변하는-일본-통신사-시장&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#0%EA%B2%A9%EB%B3%80%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%ED%86%B5%EC%8B%A0%EC%82%AC-%EC%8B%9C%EC%9E%A5&quot; aria-label=&quot;0격변하는 일본 통신사 시장 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;0.격변하는 일본 통신사 시장&lt;/h2&gt;
+&lt;p&gt;몇년 전까지만 해도 일본 통신사는 최악이었다. 2년 노예계약 강제, 비싼 요금, 적은 데이터가 거의 모든 통신사의 업계 관행이었다. 심지어 2년 노예계약도 2년 계약이 끝난 후 1개월 안에 변경하지 않으면 자동으로 연장되는 식이었다. 소비자는 울며 겨자먹기 식으로 호구가 될 수 밖에 없었다.&lt;/p&gt;
+&lt;p&gt;다행히 아베 정권 말기에 들어서며 총무성이 갑자기 제정신을 차렸다. 통신사들에게 ‘2년 노예계약을 없애라’, ‘번호이동 수수료를 낮춰라’라고 압력을 넣기 시작한 것이다. 게다가 총무성은 도코모, au, 소프트뱅크 3사가 과점 중이던 메인통신사 시장에 라쿠텐을 참여시킴으로써 시장에 변화를 몰고 왔다. 제 4통신사로 승격된 라쿠텐모바일은 ‘통화/데이터 무제한! 2980엔! 심지어 1년 무료!’라는 파격적인 요금제를 내걸었다. 하지만 기존 메인통신사들은 별 다른 움직임을 보이지 않았다. 라쿠텐 모바일은 자사망을 확충하기까지 시간이 매우 오래 걸리고, 통신품질도 안좋으니 소비자는 기존 통신사로 돌아올 것이라는 판단이었다. 기존 통신사는 요금 인하를 하지 않고 버티는 지지부진한 상황이 계속되었다.&lt;/p&gt;
+&lt;p&gt;이 때 아베가 갑자기 지병을 이유로 깜짝 퇴진하고, 스가 요시히데 정권이 들어섰다. 스가는 정권 출범 직후 ‘핸드폰 요금을 낮추겠다’고 공언하며, 통신사들을 전방위로 압박했다. 가장 먼저 백기를 든 것은 도코모였다. 도코모는 ‘아하모(ahamo)‘를 런칭하며, 월 20기가, 전화 5분 이내 무제한 요금제를 2980엔이라는 파격적인 가격에 내놓았다. 도코모가 이런 요금을 내놓자, au와 소프트뱅크도 povo와 Softbank on LINE이라는 비슷한 요금제를 내놓았다. 라쿠텐 모바일에게는 어안이 벙벙한 상황이었다. 어떤 소비자가 같은 요금을 내고 통신 품질이 월등하게 밀리는 라쿠텐을 쓸까? 결국 라쿠텐은 2월 초, 기존 요금제를 개편하여 ‘쓴 만큼 내는’ 종량제 요금제를 선언하게 된다. 이에 질 세라, 다른 알뜰폰 통신사(MVNO) 들도 저렴한 요금제를 이것저것 내놓기 시작한다. 통신사 시장의 무한경쟁체제가 펼쳐지게 된 것이다.&lt;/p&gt;
+&lt;h2 id=&quot;1-일본-통신사의-종류-및-추천&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-%EC%9D%BC%EB%B3%B8-%ED%86%B5%EC%8B%A0%EC%82%AC%EC%9D%98-%EC%A2%85%EB%A5%98-%EB%B0%8F-%EC%B6%94%EC%B2%9C&quot; aria-label=&quot;1 일본 통신사의 종류 및 추천 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. 일본 통신사의 종류 및 추천&lt;/h2&gt;
+&lt;p&gt;다음으로는 일본의 통신시장의 구조에 대해서 알아보자. 일본 통신사는 크게 ‘대형통신사’, ‘서브브랜드’, ‘알뜰폰’의 세 분류로 나누어진다. 대형통신사는 도코모, KDDI(au), 소프트뱅크, 라쿠텐의 4사이다. 이 통신사들은 자사망을 통해 우월한 통신품질을 자랑한다(라쿠텐은 제외하고…). 서브브랜드는 저렴한 요금제로 승부하는 대형통신사의 자회사이다. 대형항공사들이 낸 저가항공사 브랜드를 생각하면 딱 맞다. 대한항공이 진에어를 만들고 아시아나가 에어서울을 만들어 저렴한 티켓을 원하는 니즈를 노린 것처럼, au는 UQ Mobile, 소프트뱅크는 Y!Mobile이란 브랜드로 시장을 공략하고 있다. 알뜰폰처럼 본점 망을 빌려 쓰는 건 맞지만, 자사망을 갖고 있는 Y!Mobile이 있기 때문에 ‘서브브랜드’로 분류되는 듯 하다. 마지막으로 알뜰폰은 메인통신사의 망을 빌려쓰는 업체로, 일본통신, HIS mobile, ocn mobile, aeon mobile 등 수많은 업체가 있다.&lt;/p&gt;
+&lt;p&gt;몇 개월 전까지만 해도 대형통신사 요금제는 매우 비싸서 추천할 수도 없었지만, 2000엔대의 신요금제가 하나 둘 출시되며 상황이 많이 달라졌다. 서브브랜드와 알뜰폰의 금액적인 메리트가 많이 희석되었기 때문이다. &lt;strong&gt;그래서 도일해서 새롭게 통신사를 알아봐야 하는 예비 직장인이나 유학생 분들, 아니면 통신사를 바꿔보고자 하는 일본 거주자 분들에게는 아래 설명할 대형통신사의 신요금제 중에서 마음에 드는 요금제를 고르길 추천드린다.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;2-대형통신사（大手）의-요금제&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-%EB%8C%80%ED%98%95%ED%86%B5%EC%8B%A0%EC%82%AC%EF%BC%88%E5%A4%A7%E6%89%8B%EF%BC%89%EC%9D%98-%EC%9A%94%EA%B8%88%EC%A0%9C&quot; aria-label=&quot;2 대형통신사（大手）의 요금제 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. 대형통신사（大手）의 요금제&lt;/h2&gt;
+&lt;p&gt;한국에 SK, KT, U+이 있다면 일본에는 도코모, KDDI(au), 소프트뱅크가 있다. 한국과 마찬가지로 대형통신사의 통신품질은 월등히 좋지만, 요금제 가격이 사악하다는 문제점이 있다. 도코모의 ‘기가호(ギガホ)’, ‘기가라이트(ギガライト)’ 등 4000엔 전후의 요금제가 대표적이다.&lt;/p&gt;
+&lt;p&gt;하지만 2021년 4월부터는 대형통신사들이 내놓은 월 데이터 20기가, 2480엔~2980엔 요금제가 정식으로 출범한다. 도코모의 ahamo, au의 povo, 소프트뱅크의 Softbank on LINE 3대장이 바로 그 예다. 2020년 4월부터 도전장을 내밀었던 라쿠텐은 가입 시 1년 무료라는 공격적인 마케팅을 펼치고 있는데, 최근 요금제를 개편했다. 이 네 통신사들의 요금제를 알기 쉽게 표를 만들어 보았다. 아 참, 아래 표의 요금제는 모두 4G/5G를 쓸 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/761e1a7d7cb1030433ea08ae16eeb4a1/8f12b/20210201-comparison-table.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.583333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAWJMxHK2jf/EABsQAAEEAwAAAAAAAAAAAAAAAAABAgMTBBEx/9oACAEBAAEFAoUa9KmFURjcNH//xAAWEQADAAAAAAAAAAAAAAAAAAACEDH/2gAIAQMBAT8BGL//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAhEx/9oACAECAQE/AZat/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECMhAR/9oACAEBAAY/An7EmUYkff/EAB0QAAICAQUAAAAAAAAAAAAAAAABESExQVGRobH/2gAIAQEAAT8hjgQ9EcuK7cO0iPRZW8n/2gAMAwEAAgADAAAAEDg//8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oACAEDAQE/EBRdDf/EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EKMkS0//xAAdEAEAAwABBQAAAAAAAAAAAAABABEhMUFRYaHR/9oACAEBAAE/EH6mSnLyHtGdI130uRmaVPlAVhW52h4M/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/761e1a7d7cb1030433ea08ae16eeb4a1/8ac56/20210201-comparison-table.webp 240w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/d3be9/20210201-comparison-table.webp 480w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/e46b2/20210201-comparison-table.webp 960w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/f992d/20210201-comparison-table.webp 1440w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/e830a/20210201-comparison-table.webp 1506w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/761e1a7d7cb1030433ea08ae16eeb4a1/09b79/20210201-comparison-table.jpg 240w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/7cc5e/20210201-comparison-table.jpg 480w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/6a068/20210201-comparison-table.jpg 960w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/644c5/20210201-comparison-table.jpg 1440w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/8f12b/20210201-comparison-table.jpg 1506w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/761e1a7d7cb1030433ea08ae16eeb4a1/6a068/20210201-comparison-table.jpg&quot;
+            alt=&quot;일본 메이저 통신사의 신요금제&quot;
+            title=&quot;일본 메이저 통신사의 신요금제&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-1-font-colorred도코모---ahamofont&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-1-font-colorred%EB%8F%84%EC%BD%94%EB%AA%A8---ahamofont&quot; aria-label=&quot;2 1 font colorred도코모   ahamofont permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2-1. &lt;font color=&quot;Red&quot;&gt;도코모 - ahamo&lt;/font&gt;&lt;/h3&gt;
+&lt;p&gt;아하모는 3월 26일 정식 서비스 시작 예정이기 때문에, 우선 발표된 요금제에서 눈여겨볼 특징만 정리했다.&lt;/p&gt;
+&lt;h4 id=&quot;특징&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%8A%B9%EC%A7%95&quot; aria-label=&quot;특징 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;특징&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;고품질 통신망&lt;/strong&gt;. 도코모는 어딜 가도 일본 통신사 중에서 가장 잘 터진다. 4G LTE망의 인구커버율도 99.9%가 넘는다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5분 통화 포함&lt;/strong&gt;. au와 소프트뱅크와는 달리, 5분 이내 무제한 통화가 포함되었다. 단, 500엔 비싸다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;82개국 데이터 로밍&lt;/strong&gt;. 잠깐 한국에 돌아가도 월별 잔여 데이터만큼 로밍을 무료로 쓸 수 있다. 즉, 최대 20기가까지 추가요금 없이 해외로밍이 가능하니 해외여행을 가거나, 한국에 잠깐 돌아갈 때에는 좋은 선택지다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-2-font-colormediumblueau---povofont&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-2-font-colormediumblueau---povofont&quot; aria-label=&quot;2 2 font colormediumblueau   povofont permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2-2. &lt;font color=&quot;MediumBlue&quot;&gt;au - povo&lt;/font&gt;&lt;/h3&gt;
+&lt;p&gt;povo는 3월 중 서비스 예정이고, 5G망은 21년 여름 추가된다. povo의 특징은 딱 하나, 저렴해 ‘보이는’ 요금제이다.&lt;/p&gt;
+&lt;h4 id=&quot;특징-1&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%8A%B9%EC%A7%95-1&quot; aria-label=&quot;특징 1 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;특징&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;전화 잘 안 하는 사람들을 노린 요금제&lt;/strong&gt;. 아하모와 비교해서 요금이 500엔 저렴한 대신 통화 5분 이내 무제한 옵션이 빠졌다. 물론 500엔짜리 5분 이내 통화 옵션을 추가하면 결국 요금은 2980엔으로 똑같아진다. 즉, 전화를 잘 안하는 사람에게는 이득인데, 이게 povo의 최대 강점이기도 하다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;24시간 데이터 무제한 200엔&lt;/strong&gt;. 200엔을 추가하면 하루 데이터를 무제한으로 쓸 수 있다. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-3-font-colorlimegreen소프트뱅크---linemofont&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-3-font-colorlimegreen%EC%86%8C%ED%94%84%ED%8A%B8%EB%B1%85%ED%81%AC---linemofont&quot; aria-label=&quot;2 3 font colorlimegreen소프트뱅크   linemofont permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2-3. &lt;font color=&quot;LimeGreen&quot;&gt;소프트뱅크 - LINEMO&lt;/font&gt;&lt;/h3&gt;
+&lt;p&gt;소프트뱅크는 LINE과 경영통합을 한다는 이점을 살려, 기존의 LINE MOBILE을 통폐합시키고 이 요금제를 출시했다. 3대장 중에서는 가장 인지도가 떨어지는 요금제이지만, ‘라인 데이터가 무제한’이라는 이점이 있다. 요금은 povo와 동일하게 통화 5분을 뺀 2480엔이다. 작명 센스는…아하모 따라했니?&lt;/p&gt;
+&lt;h4 id=&quot;특징-2&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%8A%B9%EC%A7%95-2&quot; aria-label=&quot;특징 2 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;특징&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;라인 데이터 무제한&lt;/strong&gt;. 라인 어플에서 쓰는 데이터는 월 사용량에 합산되지 않는다. 즉 라인으로 톡을 보내든, 전화를 하든, 파일을 업로드하든 소비하는 데이터는 0이다. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;라인 크리에이터즈 이모티콘 5개까지 무료제공&lt;/strong&gt;. 요즘 카카오톡에서도 따라하기 시작한 이모티콘 월 구독제의 베이직 플랜(5개 제한) 라인모 사용자들에게는 무료로 제공한다. 라인과 경영통합한 소프트뱅크의 기세를 느낄 수 있는 부분이다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;속도제한 명시&lt;/strong&gt;. 라인모는 다른 건 다 좋은데 이 점에서 점수를 깎아먹었다. ‘알뜰폰 요금제도 아닌데 속도제한을 한다고?‘라는 생각이 들지만 보도자료에서 소뱅은 무려 ‘혼잡시 속도제한을 실시합니다’라고 명시적으로 선언했다. 기자회견에서는 혼잡시도 포함해 소뱅과 같은 품질의 데이터를 제공할 것이라고 사장이 명시적으로 밝혔는데, 그렇다면 소뱅 본회선이 속도제한을 하고 있다는 뜻인가? 이 점은 3월 17일 라인모 서비스 시작 이후에 다시 확인해볼 필요가 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-4-font-colormagenta라쿠텐---rakuten-unlimited-vifont&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-4-font-colormagenta%EB%9D%BC%EC%BF%A0%ED%85%90---rakuten-unlimited-vifont&quot; aria-label=&quot;2 4 font colormagenta라쿠텐   rakuten unlimited vifont permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2-4. &lt;font color=&quot;Magenta&quot;&gt;라쿠텐 - Rakuten Unlimited VI&lt;/font&gt;&lt;/h3&gt;
+&lt;p&gt;현재 내가 사용하고 있는 통신사이다. 라쿠텐 모바일을 1년 가까이 쓰면서 느낀 건 ‘통신 품질은 정말 부족하지만 가격으로 승부하는 통신사’라는 것이었다. 1년동안 기다리며 통신품질 문제가 해결되길 기다렸지만, 결국 해결되지 않았기에 4월부터는 아하모로 통신사를 옮길 예정이다.&lt;/p&gt;
+&lt;h4 id=&quot;장점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%A5%EC%A0%90&quot; aria-label=&quot;장점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;장점&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1년 무료&lt;/strong&gt;. 가입자가 300만명에 도달할 때 까지 실시하는 켐페인이다. 한 달 통신비가 3000엔이라면, 1년간 무려 4만엔을 아낄 수 있다. 새롭게 일본에 도일하는 분들은 우선 라쿠텐 모바일에 가입해서 1년 무료로 써볼 것을 추천한다. 다만 현재는 약 220만명이 가입 상태기 때문에 금방 종료될 수 있다. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;저렴한 요금제&lt;/strong&gt;. 4월부터 개편하는 요금제는 쓴 데이터에 따라 요금제가 청구되는 특이한 방식이다. 쓴 데이터가 1기가 이하면 0엔, 3기가 이하면 980엔, 20기가 이하면 1980엔, 그 이상은 2980엔을 청구한다. 현재 가입한 220만명을 어떻게든 잡아두려는 라쿠텐의 눈물겨운 노력이 보이는 요금제다. 사람에 따라 다르겠지만 사실 현실적으로 3기가 이하를 쓰긴 어려우므로 월별 청구되는 금액은 1980엔이라고 봐야 한다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;전화 및 문자 무제한&lt;/strong&gt;. 통화 무제한의 혜택을 누리기 위해선 Rakuten Link라는 통화/메세지 어플을 깔아야만 한다. Rakuten Link는 라쿠텐 회선의 데이터 혹은 와이파이를 써서 전화하는 방식이므로, 통화 품질은 안좋다는 평이 많다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;해외로밍 및 라쿠텐 포인트&lt;/strong&gt;. 해외에서 로밍 데이터 2기가/월을 제공하고, SMS도 무료다. 하지만 월 최대 20기가 한도 안에서 해외에서 데이터를 쓸 수 있는 아하모에 비하면 아쉬운 스펙이다. 또한 라쿠텐 모바일을 쓰면 라쿠텐 이치바에서 쇼핑할 때 붙는 SPU라는 포인트가 1% 추가된다. 라쿠텐 이치바의 헤비유저라면 매력적인 포인트다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;단점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A8%EC%A0%90&quot; aria-label=&quot;단점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;단점&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;빈약한 라쿠텐 망&lt;/strong&gt;. 라쿠텐 유저들이 가장 불만인 것이 바로 이 품질이다. 라쿠텐은 공격적으로 라쿠텐 자사망을 늘려 나가고는 있지만, 대도시 안에서도 지하철이나 건물 안에서는 데이터가 안잡히는 경우가 꽤 많다. 실제 나고야역 니토리나 이케부쿠로 LABO 등, 정상적인 통신사라면 신호가 제대로 잡혀야 하는 시내에서도 먹통이 되는 문제를 겪어봤다. 2021년 2월 말 기준 내가 사는 곳도 라쿠텐 회선 에리어이지만, 실제 라쿠텐 망이 잡히지 않아 파트너 에리어로 처리된다. 즉, 5기가를 다 쓰면 속도제한이 걸린다. 4월에 개편되는 요금제도 동일하게 5기가를 다 쓰면 속도제한이 걸리기 때문에, 실제로는 데이터 5기가를 1980엔에 계약하는 셈이 된다. 통신 3사가 데이터 20기가를 2480엔 혹은 2980엔에 내놓는 것을 생각해본다면, 차라리 통신사를 옮기는 게 낫다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;구형 아이폰 사용불가&lt;/strong&gt;. 라쿠텐 모바일에서 공식적으로 지원하는 아이폰 모델은 XR, XS, 11, SE 2세대 뿐이다. 그래서 8이나 7 등의 구형 아이폰 유저는 공식적으로는 사용할 수 없다. 그러나 언제나 방법은 있는 법. 인터넷을 잘 검색해보면, 구형 아이폰에서도 쓸 수 있게 만들 수 있는 방법이 있다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;아이폰에서는 안울리는 지진경보&lt;/strong&gt;. 일본은 지진이 많기에, 큰 지진이 오기 전 핸드폰으로 재난문자같이 울리는 지진경보 기능이 있다. 그러나 라쿠텐은 뭔 생각인지 아이폰에서는 이 기능을 지원하지 않는다. 야후 재난경보나 NHK 재난경보 앱을 받으면 지진 후에 경보를 받을 수 있긴 하지만, 심리적인 안정감이 떨어지는 것은 어쩔 수 없다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;3-결론&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-%EA%B2%B0%EB%A1%A0&quot; aria-label=&quot;3 결론 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. 결론&lt;/h2&gt;
+&lt;p&gt;&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;도코모(ahamo)&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 ahamo 추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;일본 어디서도 잘 터지는 통신품질이 제일 중요하다&lt;/li&gt;
+&lt;li&gt;해외여행이나 한국방문 시 현지 통신사 유심 걱정 없이 다녀오고 싶다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 ahamo 비추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;통화를 거의 안한다. 발신이 월 총 10분을 넘지 않는다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;font color=&quot;MediumBlue&quot;&gt;&lt;strong&gt;au(povo)&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 povo 추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;데이터 무제한이 필요한 날이 있을 것 같다(테더링 등)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 povo 비추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;au나 uq mobile 등 au계열 통신사를 안쓴다 → 비 au계열 통신사에서 넘어올 경우 수수료가 들 수 있기 때문&lt;/li&gt;
+&lt;li&gt;전화를 많이 한다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;font color=&quot;LimeGreen&quot;&gt;&lt;strong&gt;소프트뱅크(LINEMO)&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 라인모 추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;라인을 많이 쓴다. 귀여운 라인 스탬프 5개가 무료로 갖고싶다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 라인모 비추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;혼잡시 통신속도 제한이라는 문구가 찝찝하다&lt;/li&gt;
+&lt;li&gt;전화를 많이 한다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;font color=&quot;Magenta&quot;&gt;&lt;strong&gt;라쿠텐&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 라쿠텐 모바일 추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;도쿄, 오사카, 나고야, 후쿠오카 등의 대도시에 거주한다 → 안정적으로 라쿠텐 회선이 잡히기 때문&lt;/li&gt;
+&lt;li&gt;라쿠텐 모바일을 써 본 적이 없다 → 1년 무료 캠페인에 가입해서 우선 무료로 써보고, 맘에 안들면 통신사를 갈아타보자.&lt;/li&gt;
+&lt;li&gt;통신품질보다 가격이 더 중요하다 → 대도시 건물 지하나 화장실같은 곳에서 안터지는 것을 인내할 수 있다면 추천드린다.&lt;/li&gt;
+&lt;li&gt;한 달에 쓰는 데이터가 3기가 미만이다 → 라쿠텐은 이 구간이 980엔인데, 어떤 알뜰폰보다 저렴하다. &lt;/li&gt;
+&lt;li&gt;통화전용으로만 쓸거다 → 통화는 데이터가 들지 않으므로 통화만 쓰면 0엔인데, 데이터는 아하모, povo, LINEMO를 쓰면서 전화발신만 라쿠텐 모바일을 이용하는 듀얼심 운용을 할 때는 라쿠텐도 좋은 선택이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 라쿠텐 모바일 비추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;대도시권에 거주하지 않는다 → 아직은 라쿠텐 회선 에리어여도 라쿠텐망을 못잡기 때문에, 월 데이터 5기가 초과 이용은 포기해야 한다.&lt;/li&gt;
+&lt;li&gt;구형 아이폰 쓴다 → 물론 검색으로 어둠의 경로를 통해 구형 아이폰에서도 동작하게 만들 수 있는 자신이 있는 분은 상관없다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;다음 글은 서브브랜드와 알뜰폰 요금제 중 주목해볼만 한 요금제를 소개하려 한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ホームライナー浜松5号 탑승후기]]></title><description><![CDATA[청춘 18 티켓으로 지옥의 시즈오카 구간 워프하기]]></description><link>https://sungpyocho.github.io/posts/home-liner-hamamatsu-no5</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/home-liner-hamamatsu-no5</guid><pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;연말연시-장기휴가-마지막-날-험난한-귀가의-길&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%97%B0%EB%A7%90%EC%97%B0%EC%8B%9C-%EC%9E%A5%EA%B8%B0%ED%9C%B4%EA%B0%80-%EB%A7%88%EC%A7%80%EB%A7%89-%EB%82%A0-%ED%97%98%EB%82%9C%ED%95%9C-%EA%B7%80%EA%B0%80%EC%9D%98-%EA%B8%B8&quot; aria-label=&quot;연말연시 장기휴가 마지막 날 험난한 귀가의 길 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;연말연시 장기휴가 마지막 날, 험난한 귀가의 길&lt;/h2&gt;
+&lt;p&gt;때는 1월 7일. 잡히지 않는 코로나 바이러스의 확산으로 제 2차 긴급사태선언이 발령된 날이었다. 도쿄에서 행복한 연말연시 장기휴가를 끝내고 아이치현으로 돌아가기 위해 길을 나섰다. 다만 이번엔 교통비를 아끼기 위해 신칸센을 타지 않고, 야후옥션에서 청춘18티켓(青春 18 きっぷ)을 구입했다. 보통열차로 5시간 20분만에 집에 갈 수 있는 방법이 있었기 때문이다.&lt;/p&gt;
+&lt;p&gt;그런데 아뿔싸. 일본 전역에 강풍이 몰아닥치며 대다수 열차가 지연되며, 계획이 완전히 망가졌다. 원래 타려던 홈 라이너 하마마츠 3호(ホームライナー浜松 3 号)를 앞 열차의 지연으로 놓친 것이다. 결국 생각지도 못한 플랜 B를 세워야만 했다. 1시간 뒤에 있는 &lt;strong&gt;홈 라이너 하마마츠 5호&lt;/strong&gt;를 탔다. 다른 열차도 있는데, 왜 이 열차를 고집했을까? 그 이유는 쾌속이 존재하지 않는 시즈오카 현의 철도 특성 때문이다.&lt;/p&gt;
+&lt;h2 id=&quot;미션-일반열차로-시즈오카-현을-빠르고-편하게-이동하라&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AF%B8%EC%85%98-%EC%9D%BC%EB%B0%98%EC%97%B4%EC%B0%A8%EB%A1%9C-%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4-%ED%98%84%EC%9D%84-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EB%9D%BC&quot; aria-label=&quot;미션 일반열차로 시즈오카 현을 빠르고 편하게 이동하라 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;미션: 일반열차로 시즈오카 현을 빠르고 편하게 이동하라&lt;/h2&gt;
+&lt;p&gt;청춘 18 티켓으로 도쿄-나고야, 도쿄-오사카 등 시즈오카 현을 거쳐 본 사람들은 반드시 공감하는 게 있다. 바로 시즈오카의 일반열차는 지옥이라는 점이다.&lt;/p&gt;
+&lt;p&gt;시즈오카 구간이 지옥인 이유는 두 가지다. 첫째, 쾌속, 신쾌속, 구간쾌속, 특별쾌속 등 쾌속 시리즈가 넘쳐나는 바로 옆 아이치현과는 달리, 시즈오카현은 쾌속이 ‘없다’. 장거리 이동을 하는 청춘18 유저들에겐 청천벽력같은 소식이다. 시즈오카 동쪽 끝 이타미에서 서쪽 끝 하마마츠까지, 모든 역에 정차하며 가야 한다. 그것도 2시간 30분 걸려서 말이다.&lt;/p&gt;
+&lt;p&gt;둘째, 마주보며 앉는 ‘롱 시트(ロングシート)’ 좌석 배치가 많다. 서울 지하철과 같은 롱 시트는 장거리 이동에는 적합하지 않다. 옆에 앉는 사람도 많아 불편할 뿐더러, 창가에 팔을 기대서 잠을 청할 수도 없다. 그래서 일본에서는 장거리 통근수요가 있는 구간은 2-2열로 창가에 직각으로 좌석을 배치한 ‘박스 시트(ボックスシート)’　‘크로스 시트(クロススシート)‘를 사용한다. 하지만 시즈오카 구간은 큼직큼직한 도시 사이를 이어주는 통근수요가 많다는 이유로, 사람을 더 많이 욱여넣을 수 있는 롱 시트를 채용하고 있다. 롱 시트는 출퇴근 시간에 걸리면 인파 때문에 힘들 뿐더러, 허리도 아프다.&lt;/p&gt;
+&lt;h2 id=&quot;구세주-홈-라이너-하마마츠ホームライナー浜松&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B5%AC%EC%84%B8%EC%A3%BC-%ED%99%88-%EB%9D%BC%EC%9D%B4%EB%84%88-%ED%95%98%EB%A7%88%EB%A7%88%EC%B8%A0%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E6%B5%9C%E6%9D%BE&quot; aria-label=&quot;구세주 홈 라이너 하마마츠ホームライナー浜松 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;구세주 홈 라이너 하마마츠(ホームライナー浜松)&lt;/h2&gt;
+&lt;p&gt;그렇다면 청춘18 티켓을 사용해 시즈오카 현을 편하게 이동하는 방법은 정말 없는걸까? 다행히도 ‘홈 라이너’라는 구세주가 있다. 홈 라이너는 각역정차를 하지 않고, 주요 역에만 정차한다. 차량도 특급열차에 쓰는 373계라는 차량을 사용하여, 전 좌석이 크로스 시트다. 시즈오카 구간을 주파하고자 하는 사람들에게는 최적의 선택지이다. 다만 평일만 운행하는 편성이 있는 등, 이런저런 제약이 있기 때문에 시간표를 제대로 확인할 것을 추천한다.&lt;/p&gt;
+&lt;p&gt;내가 원래 타고자 했던 차량은 ‘홈 라이너 하마마츠 3호’였다. 누마즈(沼津)에서 하마마츠(浜松)를 1시간 40분만에 주파하는 귀중한 열차이다. 이 ‘3호’가 다른 홈 라이너 시리즈 중에서 특별한 건 하마마츠부터 보통열차로 바뀌어 아이치현 동쪽 끝 토요하시(豊橋)까지 운행한다는 것이다. 토요하시 서쪽으로는 아이치현 구역이므로 쾌속 열차를 타서 쾌적하게 이동할 수 있다. 이 날은 아쉽게 앞 열차의 지연으로 이 열차를 타지 못했다.&lt;/p&gt;
+&lt;p&gt;그 대신 탑승한 것은 ‘홈 라이너 하마마츠 5호’였다. 누마즈(沼津)에서 하마마츠(浜松)를 운행하는 차량이었다. 타기 위해서는 330엔을 내고 라이너 승차정리권을 사야했다. 이 승차권은 누마즈역 플랫폼의 발매기에서 구할 수 있다. 환승 시간이 짧아 구할 수 없다면 우선 타서 적당한 곳에 앉아있다가, 검표원이 오면 330엔을 내고 살 수도 있다. 원래라면 승차권에 적힌 자리에 앉아야 하지만, 코로나 때문에 아무 자리에나 앉으면 된다. 추천하는 자리는 바로 테이블 좌석! 4인이 테이블을 가운데 두고 마주보고 앉는 좌석에 혼자 앉는다면, 정말 편하게 갈 수 있다. 이 글도 열차 테이블에서 노트북으로 작성했다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[일본 제조업 입사 6개월째 후기]]></title><description><![CDATA[고민 끝에 들어간 일본 제조업 대기업. 지금 생활을 돌아보며 쓴 이야기.]]></description><link>https://sungpyocho.github.io/posts/six-months-in-japanese-company</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/six-months-in-japanese-company</guid><pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;회사를-골랐던-계기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%9A%8C%EC%82%AC%EB%A5%BC-%EA%B3%A8%EB%9E%90%EB%8D%98-%EA%B3%84%EA%B8%B0&quot; aria-label=&quot;회사를 골랐던 계기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;회사를 골랐던 계기&lt;/h2&gt;
 &lt;p&gt;해외에서 개발자로 일하고 싶었다. 한국에서 오래 살다보니, 해외에 나가 색다른 경험을 해보고 싶다는 마음이 컸다. 일본을 택하게 된 것은 대학생 때 한일교류를 많이 했기에 친구들도 많았고, 문화와 생활습관에도 익숙했기 때문이다.&lt;/p&gt;
 &lt;p&gt;개발자로 많이 성장할 수 있는 회사를 찾다가, 결국 두 곳에 내정을 받았다. 요즘 투자회사로 알려진 통신사와 자동차 부품 제조업이었다. 두 군데 모두 소프트웨어 엔지니어로 내정받았기 때문에, 어떤 곳을 선택해야 할지 고민을 많이 했다. 오랜 고민 끝에 자동차 부품 메이커가 개발자로서 성장하기 좋은 회사라고 생각하여 입사를 결정했다.&lt;/p&gt;
 &lt;h2 id=&quot;입사-후-첫-부서배치&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%85%EC%82%AC-%ED%9B%84-%EC%B2%AB-%EB%B6%80%EC%84%9C%EB%B0%B0%EC%B9%98&quot; aria-label=&quot;입사 후 첫 부서배치 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;입사 후 첫 부서배치&lt;/h2&gt;
@@ -19,38 +170,38 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAFpaXsaROI//8QAGRAAAgMBAAAAAAAAAAAAAAAAAAIBAxEx/9oACAEBAAEFApfS2RL1RY4af//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/AUf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Bq6//xAAbEAACAQUAAAAAAAAAAAAAAAAAAQIQESExMv/aAAgBAQAGPwLrCIlmar//xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMZFBYf/aAAgBAQABPyE7IPSoDtZmDyV+TN3ruCWHI5ZDk//aAAwDAQACAAMAAAAQW/8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAEDAQE/EDCJ/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qsv/EAB0QAQEAAgEFAAAAAAAAAAAAAAERACExQVFhcbH/2gAIAQEAAT8QEoaHofeGKkFe/GcwiUU+4dQbWGawAVDjG7S+az//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAFleXsaROI//8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECAxEx/9oACAEBAAEFAnomasjeYmfDp//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/AUf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Bq6//xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRMRAhMv/aAAgBAQAGPwLrSDSFkqs//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITGRQVFh/9oACAEBAAE/IbhB5IDys2CyT8mnZ9oVYdR1tdT/2gAMAwEAAgADAAAAEAvf/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAEDAQE/EDCJ/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qsv/EAB0QAQEBAAEFAQAAAAAAAAAAAAERACFBUWGBscH/2gAIAQEAAT8QFo6E6PvDoSCtHtoyRaCfcGwUscZAtOZ+Nz4vyHf/2Q==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/ccae26c61bba0c43e95bb121807de766/8ac56/20200915-kariya-at-night.webp 240w,
+          &lt;source
+              srcset=&quot;/static/ccae26c61bba0c43e95bb121807de766/8ac56/20200915-kariya-at-night.webp 240w,
 /static/ccae26c61bba0c43e95bb121807de766/d3be9/20200915-kariya-at-night.webp 480w,
 /static/ccae26c61bba0c43e95bb121807de766/e46b2/20200915-kariya-at-night.webp 960w,
 /static/ccae26c61bba0c43e95bb121807de766/f992d/20200915-kariya-at-night.webp 1440w,
 /static/ccae26c61bba0c43e95bb121807de766/882b9/20200915-kariya-at-night.webp 1920w,
 /static/ccae26c61bba0c43e95bb121807de766/b33a3/20200915-kariya-at-night.webp 4032w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/ccae26c61bba0c43e95bb121807de766/09b79/20200915-kariya-at-night.jpg 240w,
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/ccae26c61bba0c43e95bb121807de766/09b79/20200915-kariya-at-night.jpg 240w,
 /static/ccae26c61bba0c43e95bb121807de766/7cc5e/20200915-kariya-at-night.jpg 480w,
 /static/ccae26c61bba0c43e95bb121807de766/6a068/20200915-kariya-at-night.jpg 960w,
 /static/ccae26c61bba0c43e95bb121807de766/644c5/20200915-kariya-at-night.jpg 1440w,
 /static/ccae26c61bba0c43e95bb121807de766/0f98f/20200915-kariya-at-night.jpg 1920w,
 /static/ccae26c61bba0c43e95bb121807de766/d2602/20200915-kariya-at-night.jpg 4032w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/ccae26c61bba0c43e95bb121807de766/6a068/20200915-kariya-at-night.jpg&quot;
-          alt=&quot;kariya&quot;
-          title=&quot;kariya&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/ccae26c61bba0c43e95bb121807de766/6a068/20200915-kariya-at-night.jpg&quot;
+            alt=&quot;kariya&quot;
+            title=&quot;kariya&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&quot;그래서-시작한-웹개발-취미&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B7%B8%EB%9E%98%EC%84%9C-%EC%8B%9C%EC%9E%91%ED%95%9C-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%B7%A8%EB%AF%B8&quot; aria-label=&quot;그래서 시작한 웹개발 취미 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;그래서 시작한 웹개발 취미&lt;/h2&gt;
@@ -65,200 +216,7 @@
 &lt;h2 id=&quot;일본-취업을-준비하는-분들께&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9D%BC%EB%B3%B8-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%EB%B6%84%EB%93%A4%EA%BB%98&quot; aria-label=&quot;일본 취업을 준비하는 분들께 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;일본 취업을 준비하는 분들께&lt;/h2&gt;
 &lt;p&gt;해외취업은 도전이다. 남들보다 매일 더 노력하고 인내할 각오를 해야한다. 해외 생활은 그만큼 녹록치 않았다.&lt;/p&gt;
 &lt;p&gt;초봉은 적은데, 세금은 많이 떼이기 때문에 저축이 힘들다. 실제 금액만 보면 한국 스타트업에서 일하는 게 더 낫겠다는 생각이 들기도 한다. 또한 나처럼 원하지 않던 부서로 배치되어 꿈꾸던 것과는 다른 일을 할 수도 있다. 같이 들어온 5년 어린 학부생 동기들을 보며, 미래 승진에 대한 걱정을 해야할 수도 있다. 코로나19로 부모님을 뵈러 한국에 못가고, 외로움을 삼켜야 할지도 모른다. 상상했던 것과는 다른 이런 현실에 맞부닥쳐, 결국 해외 생활을 정리하고 한국으로 돌아가시는 분들도 많이 계신다.&lt;/p&gt;
-&lt;p&gt;이런 위기를 감수하실 각오가 되어 있으신지 묻고 싶다. 그럼에도 일본 취업을 결정했다면, 일본에 취업하고자 하는 확실한 목적과 이루고자 하는 분명한 목표를 세우고 일본 취업을 준비했으면 좋겠다. 남들보다 끈기있게 노력하고 도전하실 준비가 되었다면, 분명 후회없는 행복한 해외생활을 하며 즐겁게 일할 수 있을 것이다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[일본에서 절약하기] 1. 통신비]]></title><description><![CDATA[일본에 온 사람이라면 누구나 고민하는 문제다. 일본은 한국보다 통신비가 비싼 나라이기 때문에, 절약하기 위해서는 통신사를 잘 골라야 한다. 결론부터 말하자면 라쿠텐 모바일 쓰세요! 왜 이런 결론에 다다르게 되었는지 차근차근 설명해 보려고 한다.]]></description><link>https://sungpyocho.github.io/posts/why-i-chose-rakuten-mobile</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/why-i-chose-rakuten-mobile</guid><pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;일본에서 어떤 통신사를 가입해야 할까?&lt;/p&gt;
-&lt;p&gt;일본에 온 사람이라면 누구나 고민하는 문제다. 일본은 한국보다 통신비가 비싼 나라이기 때문에, 절약하기 위해서는 통신사를 잘 골라야 한다. 결론부터 말하자면 &lt;strong&gt;라쿠텐 쓰세요!&lt;/strong&gt; 이긴 하지만, 왜 이런 결론에 다다르게 되었는지 차근차근 설명해 보려고 한다.&lt;/p&gt;
-&lt;p&gt;우선 일본 통신사 시장에 대해 알 필요가 있다. 일본 통신사는 크게 ‘대형통신사’, ‘서브브랜드’, ‘알뜰폰’의 세 분류로 나누어진다.&lt;/p&gt;
-&lt;h2 id=&quot;1대형통신사（大手）&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1%EB%8C%80%ED%98%95%ED%86%B5%EC%8B%A0%EC%82%AC%EF%BC%88%E5%A4%A7%E6%89%8B%EF%BC%89&quot; aria-label=&quot;1대형통신사（大手） permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1.대형통신사（大手）&lt;/h2&gt;
-&lt;p&gt;한국에 SK, KT, U+이 있다면 일본에는 도코모, KDDI(au), 소프트뱅크가 있다. 한국과 마찬가지로 대형통신사의 통신품질은 월등히 좋지만, 요금제 가격이 사악하다는 문제점이 있다. &lt;strong&gt;즉, 통신비를 낮추려면 이 셋은 제외해야할 1순위 선택지다.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;2020년 4월부터는 세 회사가 과점하전 시장에 라쿠텐이 도전장을 내밀었다. 제4통신사로 참여하며 ‘Rakuten Unlimited’라는 2980엔짜리 파격 요금제를 무려 &lt;strong&gt;1년 무료&lt;/strong&gt;라는 캠페인을 펼친 것이다. 이 요금제에 대해서는 아래에서 더욱 자세하게 설명하겠다.&lt;/p&gt;
-&lt;h2 id=&quot;2서브브랜드（サブブランド）&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2%EC%84%9C%EB%B8%8C%EB%B8%8C%EB%9E%9C%EB%93%9C%EF%BC%88%E3%82%B5%E3%83%96%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%EF%BC%89&quot; aria-label=&quot;2서브브랜드（サブブランド） permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2.서브브랜드（サブブランド）&lt;/h2&gt;
-&lt;p&gt;서브브랜드란 대형통신사의 자회사로, 자사 망을 일부 구축하여 서비스하고 있는 업체이다. 서브브랜드에는 ‘Y mobile’과 ‘UQ’라는 두 업체가 있는데, Y mobile은 소프트뱅크의 자회사, UQ는 KDDI의 자회사이다. 항공업계를 예로 들면, 대한항공의 자회사인 진에어, 아시아나항공의 자회사인 에어부산/에어서울이 바로 이런 서브브랜드라고 생각하면 된다.&lt;/p&gt;
-&lt;p&gt;그렇다면 서브브랜드의 장점은 무엇일까?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://s3-ap-northeast-2.amazonaws.com/sungpyo.com/2020/03/hikaku.png&quot; alt=&quot;통신사 간 속도비교&quot;&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;일단 통신품질이 우월하다. 빠르다. 자사망을 갖고있기 때문에, 대형통신사의 망을 빌려쓰는 알뜰폰 업체들에 비해 출퇴근 시간에도 쾌적한 이용이 가능하다. 아래 표를 보자. Y! mobile과 UQ mobile이 다른 업체들에 비해 월등히 빠른 인터넷을 제공한다는 것을 알 수 있다.&lt;/li&gt;
-&lt;li&gt;가격이 저렴하다. 알뜰폰 업체들과 비해서 그리 비싸지 않은 요금을 자랑한다.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&quot;3알뜰폰（格安-sim）&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3%EC%95%8C%EB%9C%B0%ED%8F%B0%EF%BC%88%E6%A0%BC%E5%AE%89-sim%EF%BC%89&quot; aria-label=&quot;3알뜰폰（格安 sim） permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3.알뜰폰（格安 SIM）&lt;/h2&gt;
-&lt;p&gt;알뜰폰은 도코모, 소프트뱅크와 같은 대형통신사의 망을 빌려서 서비스하는 업체이다. 대표적으로 라인 모바일, 라쿠텐 모바일(~2020.03) 등이 있다. 이 중 라인 모바일은 일본 통신사를 추천하는 글에서 가장 많이 언급되고 추천되는 업체이다. &lt;strong&gt;하지만 추천하지 않는다.&lt;/strong&gt; 쓰다가 답답해서 울화병 날 확률이 높기 때문이다.&lt;/p&gt;
-&lt;p&gt;알뜰폰은 인터넷 속도가 느리다. 남의 통신망을 빌려쓰는 만큼, 느린 속도는 어쩔 수 없는 숙명이다. 혼잡시간대에는 대형통신사 이용자가 우선이다. 대형통신사 망을 빌려쓰고 있는 알뜰폰 유저들은 당연히 우선순위가 밀려, 느린 속도의 인터넷을 쓸 수 밖에 없다. 위 표에서 보듯이 알뜰폰의 속도는 정말 처참한 수준이다.&lt;/p&gt;
-&lt;p&gt;여기까지 왔다면, 라쿠텐 모바일 및 서브브랜드가 괜찮은 선택지인 것을 알 수 있을 것이다. 그렇다면 라쿠텐 모바일, Y! 모바일과 UQ모바일 중에서 어떤 업체를 선택해야 할까?&lt;/p&gt;
-&lt;h2 id=&quot;1rakuten-mobile&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1rakuten-mobile&quot; aria-label=&quot;1rakuten mobile permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1.Rakuten Mobile&lt;/h2&gt;
-&lt;p&gt;현재 사용하고 있는 통신사로, 가장 추천하는 곳이다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 622px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f12bc9d39dae64927b5e8f2d861e22ad/5e4ef/20200525-rakuten.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 77.08333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAX/2gAMAwEAAhADEAAAAczsWtKk6gJf/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxIRI//aAAgBAQABBQIKxme3PQQ2mAaVN5//xAAZEQACAwEAAAAAAAAAAAAAAAAAAQIDIRP/2gAIAQMBAT8BsUniOk1iP//EABYRAQEBAAAAAAAAAAAAAAAAAAACAf/aAAgBAgEBPwGmU//EABwQAAICAgMAAAAAAAAAAAAAAAABAiESIjEyUf/aAAgBAQAGPwIip8GlLw7Clk6Ef//EABsQAAMAAgMAAAAAAAAAAAAAAAABESExQVGR/9oACAEBAAE/IVa34UlPm8ymue87B4JkJcqxdi0f/9oADAMBAAIAAwAAABBM7//EABcRAQEBAQAAAAAAAAAAAAAAAAEAIRH/2gAIAQMBAT8QBeUbzC//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAECAQE/EE4hKHb/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMUGBof/aAAgBAQABPxCkKmim6L5MlsJaRF42gmQdz99gFrCwFxyW6jXa6O1cK+qMLuf/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/f12bc9d39dae64927b5e8f2d861e22ad/8ac56/20200525-rakuten.webp 240w,
-/static/f12bc9d39dae64927b5e8f2d861e22ad/d3be9/20200525-rakuten.webp 480w,
-/static/f12bc9d39dae64927b5e8f2d861e22ad/5bf66/20200525-rakuten.webp 622w&quot;
-          sizes=&quot;(max-width: 622px) 100vw, 622px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/f12bc9d39dae64927b5e8f2d861e22ad/09b79/20200525-rakuten.jpg 240w,
-/static/f12bc9d39dae64927b5e8f2d861e22ad/7cc5e/20200525-rakuten.jpg 480w,
-/static/f12bc9d39dae64927b5e8f2d861e22ad/5e4ef/20200525-rakuten.jpg 622w&quot;
-          sizes=&quot;(max-width: 622px) 100vw, 622px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/f12bc9d39dae64927b5e8f2d861e22ad/5e4ef/20200525-rakuten.jpg&quot;
-          alt=&quot;Rakuten&quot;
-          title=&quot;Rakuten&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://network.mobile.rakuten.co.jp/fee/un-limit/?l-id=top_0501_i_fee_unlimit&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;라쿠텐 모바일의 요금제&lt;/a&gt;는 단순하다. 2980엔의 ‘Rakuten Unlimited’ 하나 뿐이다.&lt;/p&gt;
-&lt;p&gt;라쿠텐 모바일을 반년째 쓰면서 느꼈던 장점과 단점을 한번 정리해보았다.&lt;/p&gt;
-&lt;h3 id=&quot;장점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%A5%EC%A0%90&quot; aria-label=&quot;장점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;장점&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1년 무료&lt;/strong&gt;. 한 달 통신비가 3000엔이라면, 1년간 무려 소비세 포함 4만엔을 아낄 수 있다.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;충분한 데이터&lt;/strong&gt;. 라쿠텐 에리어라면 무제한, 파트너 에리어는 5기가를 제공한다. 라쿠텐 에리어는 라쿠텐 기지국이 깔린 대도시권이고, 파트너 에리어는 아직 라쿠텐이 커버하지 못해 KDDI망을 빌려 서비스하고 있는 곳이다. 현재 나는 파트너 에리어에 살고 있지만, 5기가를 다 써도 1Mbps로 데이터를 계속 쓸 수 있으니 부족함을 느끼지 못하고 있다.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;전화 및 문자 무제한&lt;/strong&gt;. 단, Rakuten Link라는 통화/메세지 어플을 깔아야만 한다. 라쿠텐 모바일 출범 초기에는 아이폰에서 Rakuten Link를 사용할 수 없었다. 그러나 얼마 전부터 아이폰에서도 Rakuten Link를 지원하게 되어, 전화와 문자 요금 걱정 없이 지내고 있다.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;해외 66개국 로밍 지원&lt;/strong&gt;. 해외에서 로밍 데이터 2기가/월을 제공하고, SMS도 무료다. 코로나19 시대에서는 쓸 일이 별로 없어지긴 했지만, 1년에 한 두번 한국을 가야만 하는 나에겐 굉장히 유용하다. 따로 한국에서 데이터 유심을 살 필요가 없게 되었다.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;라쿠텐 포인트&lt;/strong&gt;. 라쿠텐 모바일에 가입할 때는 ‘계약사무수수료’라는 명목으로 3300엔을 내야 한다. 하지만 이 수수료도 Rakuten Link로 전화/문자를 하기만 하면 포인트로 돌려받을 수 있다. 또한 주변 지인의 추천으로 가입하면 포인트를 3000엔 더 준다. 라쿠텐 포인트는 실제 쓸 방법이 굉장히 많으니 잘 모아두면 좋다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;단점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A8%EC%A0%90&quot; aria-label=&quot;단점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;단점&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;구형 아이폰 사용불가&lt;/strong&gt;. 라쿠텐 모바일에서 공식적으로 지원하는 아이폰 모델은 XR, XS, 11, SE 2세대 뿐이다. 그래서 8이나 7 등의 구형 아이폰 유저는 공식적으로는 사용할 수 없다. 그러나 언제나 방법은 있는 법. 인터넷을 잘 검색해보면, 구형 아이폰에서도 쓸 수 있게 만들 수 있는 방법이 있다.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;빈약한 라쿠텐 망&lt;/strong&gt;. 라쿠텐 에리어는 아직 도쿄, 오사카, 나고야, 후쿠오카 같은 대도시권 중심이다. 문제는 대도시 안에서도 지하철 터널이나 건물 안을 들어가면, 라쿠텐 회선이 먹통인 경우가 꽤 있다는 점이다. 실제 나고야역 니토리에서 이런 문제를 겪어본 적이 있는데, UQ회선은 데이터를 잘 잡았었다. 내년 3월까지 인구의 80%정도를 커버할정도로 에리어를 확충한다고 하니, 기대해보는 중이다.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;아이폰에서는 안울리는 지진경보&lt;/strong&gt;. 일본은 지진이 많기에, 큰 지진이 오기 전 핸드폰으로 재난문자같이 울리는 지진경보 기능이 있다. 그러나 라쿠텐은 뭔 생각인지 아이폰에서는 이 기능을 지원하지 않는다. 야후 재난경보나 NHK 재난경보 앱을 받으면 지진 후에 경보를 받을 수 있긴 하지만, 심리적인 안정감이 떨어지는 것은 어쩔 수 없다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;하지만 이런 단점을 무색하게 하는 1년 무료와 전화 및 문자 무제한이라는 너무나도 큰 장점이 있기에, 라쿠텐 모바일을 쓰는 중이다.&lt;/p&gt;
-&lt;p&gt;라쿠텐 모바일 가입은 &lt;a href=&quot;https://network.mobile.rakuten.co.jp/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;홈페이지&lt;/a&gt;에서 바로 할 수 있다.&lt;/p&gt;
-&lt;h2 id=&quot;2y-mobile&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2y-mobile&quot; aria-label=&quot;2y mobile permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2.Y! Mobile&lt;/h2&gt;
-&lt;p&gt;와이모바일 요금제는 다음과 같이 구성되어 있다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ebe9a67cdfb977d32b723b8b33d936e5/d30ee/20200525-ymobile.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 51.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAAsSAAALEgHS3X78AAACMElEQVQozw2NS08TUQBG5x+5QwwsdONCCRsX/hmXuDLBGDc+SRQIAjEI5VGlqIShpk1oO22nnbYz93baeU87jzuvO6879qy+nOTLobxHz/zlNbSyPl9dR/ef+Evr0fM18molf7mcbCzHJxvp3VHx5vGLT6/v7f1Z3Tl7uHv24Gtpaef86WGFynFcZPkYwl+Xl6osF2me4oikMY6CWq1G0zQOfJIlOI5TQua2fXVVYVl2sXGSUCHGLkKWrFgjYaaqKPBVXecBnEwmoNsctuoQCOJUMg0jDIKZZY9kdazptmXhKKKyBUmK6013+9C7Y3CaJvGikqWu4Vf3UXXfU4Q4yTDGeZZyprXXHpQ44AVBnudUEATItpGq2VCcDoYQAEWRNVVVp+Kw3RB7DU0SxbHI87wAQB9AyZxB3Zhb1uJIkaLAjhvuHweb72bfT70oKgqSLaRQT64/4/LmnK3GebGQURyXBvB9o/+2xkiGWRBCEeQ7kgx6/WGHNVkuU3QSRZk7k0b9EdsB3ZYHWeLoOEsV1+WA0Oa4Js8D23EwpgrFcK7/gdLP7PdtXv6bMX3iuhi2J9c/9GqpYM5J64KILMLRDRRLjVaZB6eiQqu67HsUkbXkqOx/OUBb34zbusMOCgeRcTOld8PKB0QfqJ06Fgc+DiuSut0dfmyyF9yQmYhThCiizTJRFup3XbqqNhgCpsS2C3Ni8z14c+7VTtCgUWjQDX0xChkIjludyxHomaYSBP8BOBT+9Cys4QMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/ebe9a67cdfb977d32b723b8b33d936e5/8ac56/20200525-ymobile.webp 240w,
-/static/ebe9a67cdfb977d32b723b8b33d936e5/d3be9/20200525-ymobile.webp 480w,
-/static/ebe9a67cdfb977d32b723b8b33d936e5/e46b2/20200525-ymobile.webp 960w,
-/static/ebe9a67cdfb977d32b723b8b33d936e5/58b01/20200525-ymobile.webp 980w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/ebe9a67cdfb977d32b723b8b33d936e5/8ff5a/20200525-ymobile.png 240w,
-/static/ebe9a67cdfb977d32b723b8b33d936e5/e85cb/20200525-ymobile.png 480w,
-/static/ebe9a67cdfb977d32b723b8b33d936e5/d9199/20200525-ymobile.png 960w,
-/static/ebe9a67cdfb977d32b723b8b33d936e5/d30ee/20200525-ymobile.png 980w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/ebe9a67cdfb977d32b723b8b33d936e5/d9199/20200525-ymobile.png&quot;
-          alt=&quot;Y! 모바일 요금제 일람표&quot;
-          title=&quot;Y! 모바일 요금제 일람표&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;큰 숫자에 속으면 안된다!! 큰 숫자는 신규가입에 가족할인까지 적용한 가격이다. 실제 가격은 검은 글씨로 조~그마하게 써있다.&lt;/p&gt;
-&lt;p&gt;Y모바일 요금제의 특징을 정리해보면 다음과 같다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;기본료: S는 2680엔, M은 3680엔, R은 4680엔&lt;/li&gt;
-&lt;li&gt;신규 가입시 다음달부터 기본료에서 700엔씩 6개월간 할인&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;10분 이내의 통화 무제한&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;남은 데이터 이월 불가&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;가입 후 1년동안 추가 데이터 제공 캠페인&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;볼드 처리&lt;/strong&gt;한 부분이 UQ 모바일과의 결정적인 차이점이다. 그렇다면 UQ 모바일의 요금제를 살펴보도록 하자.&lt;/p&gt;
-&lt;h2 id=&quot;3uq-mobile&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3uq-mobile&quot; aria-label=&quot;3uq mobile permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3.UQ Mobile&lt;/h2&gt;
-&lt;p&gt;라쿠텐 모바일로 넘어오기 전 썼던 통신사이다. UQ 모바일의 요금표도 사실 크게 다르진 않다.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 900px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/91fd70c40efb10c14e484508214287de/1cfc2/20200525-uq.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 60.83333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAACl0lEQVQoz4VTyW7UQBC1QCQsUhAcOCCUQ8R+4YAUfiBfka+IcuOIkDjnEL6AT2AxB4hBmgRlDuxCSkhmPEtm3B6vbbeXXqooeyKuKavUrapXr6teyRYinrPI+DRYkUGmVJijTgQUMUcRJAhxARRvHEs/6cgZRyUqiJ++xvDjb6yKAk2YgwrbvLFebm8vrT5ZvR4G4V0woOgBNIEA+W2K+Y8x8oxTAIByqKTco3sDAfmHYd0ZIO8zFGVBEQTKo7W1tbW0vLx8pe/2H1LZnDApQfYirIbkskaYGyql9pqTPtBehvIoxDLgKLVqX5FKgbWxsXFrbW3twd7u7mNCyiahfRrhu4fi6xjjNMGW8bTDlpBMHocouyfIjxhmhcCWsOmQzvONhnSuEFS3GbrU0xSzhF43eh4hU2g+49wAeI1lL8BM5Kj0vExphdb6+vo14ru82+k8wkrVUEiEUoJwZ+gPJihJbMNL0LQUOY2HullaLEBPUuQ/Rxh4Ppq8wqZO5iVaw8FgsekwiqJ7ppIKKoXkADXJKSSaSNDWC1A+x3ocHSsiViwFKGrShhon+UwpW5eCCDc3Ny81hJ7n3W6nIpsyD7Kui/m+ixPfQ23mq1VgvsDpyIwxDA7GOBmfYFVX85EVjfzi2fOrxHdh2HfvU+tV041MhKZOdN2baepK60mi1SjSahB6NKo2jOvqL9P1KNQyzrUivElLXadCW4eVv2DdvLhQob6DZxhP0/gsjEUCNltenO38ulHnxRvS4T2J+47cVkVl8yixQzazkyCyvfHkVTBlduj5dhalbb7BNXj6e+yS528t5YZdCMW+ZryrvdRR03SH3GmdcUd+GznVp0On3ncd0wt2IBAO+JlDYzv/cVSjfcIesA//APUxSZ8RvTNRAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/91fd70c40efb10c14e484508214287de/8ac56/20200525-uq.webp 240w,
-/static/91fd70c40efb10c14e484508214287de/d3be9/20200525-uq.webp 480w,
-/static/91fd70c40efb10c14e484508214287de/131f1/20200525-uq.webp 900w&quot;
-          sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/91fd70c40efb10c14e484508214287de/8ff5a/20200525-uq.png 240w,
-/static/91fd70c40efb10c14e484508214287de/e85cb/20200525-uq.png 480w,
-/static/91fd70c40efb10c14e484508214287de/1cfc2/20200525-uq.png 900w&quot;
-          sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/91fd70c40efb10c14e484508214287de/1cfc2/20200525-uq.png&quot;
-          alt=&quot;UQ 모바일 요금제 일람표&quot;
-          title=&quot;UQ 모바일 요금제 일람표&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Y Mobile과 다른 점은,&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;기본 요금이 700엔 저렴하다.&lt;/strong&gt; Y mobile과 달리, 10분 이내 통화 무제한이 옵션(700엔)으로 들어있기 때문이다. 따라서 통화할 일이 많지 않은 사람들은 700엔 저렴하게 사용 가능하다.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;데이터 이월이 가능하다.&lt;/strong&gt; 다만, 최대 이월 가능한 데이터는 다음달 요금제의 기본 데이터 제공량까지만 이월된다.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;데이터를 소비하지 않는 ‘절약 모드’가 있다.&lt;/strong&gt; 300kbps로 속도를 제한하는 대신, 월별 제공량을 소비하지 않는다. 물론 이 기능을 사용하려면 UQ모바일 앱에서 직접 켜야 하는 번거로움이 있다. 하지만 실험 결과, 카카오톡, 트위터, 보이스톡, 심지어는 스포티파이 음악 스트리밍까지 무리 없이 가능했다.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;가입 후 1년동안 추가 데이터를 제공해준다. 하지만 함정이 있다!&lt;/strong&gt; 바로 au ID를 가입하고 + 유료 통화 옵션을 가입해야만 데이터를 받을 수 있다는 것이다. 유료 통화 옵션은 ‘10분 이내 통화 무제한(700엔)‘과 ‘월 60분 이내 통화(500엔)’ 두 개가 있는데, 10분 이내 통화 무제한 옵션을 추가한다면 사실상 Y! mobile과 요금이 똑같아진다. 나는 500엔짜리 플랜을 골랐다. 주의할 점은 가입시에만 선택할 수 있고, 나중에 통화 플랜을 해지하면 추가 데이터 혜택은 함께 사라진다는 것이다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;정리하면 데이터 이월이 가능하고, 절약모드가 가능하고, 기본 요금이 700엔 더 저렴하다. 물론 au라는 대형 통신사의 알뜰폰이니 데이터도 잘 터진다. 구형 아이폰을 쓰는 분이나, 안심하고 쓸 수 있는 데이터 및 통화 품질을 원하는 분들은 UQ를 추천한다.&lt;/p&gt;
-&lt;p&gt;내가 일본에 처음 와서 선택한 것은 R플랜(2980엔)+60분 이내 통화(500엔)이었다.&lt;/p&gt;
-&lt;p&gt;이 글을 처음 썼을 때는 UQ모바일을 추천했기에, UQ 가입 방법을 자세하게 적어두었었다. UQ를 가입하고 싶어하는 분들을 위해, 아래 설명을 남겨둔다.&lt;/p&gt;
-&lt;h3 id=&quot;1-아마존에서-인터넷-가입&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-%EC%9D%B8%ED%84%B0%EB%84%B7-%EA%B0%80%EC%9E%85&quot; aria-label=&quot;1 아마존에서 인터넷 가입 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. 아마존에서 인터넷 가입&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%89%88_%E5%8D%B3%E6%99%82%E7%94%B3%E8%BE%BC%E5%8F%AF%E8%83%BD%E3%80%90%E3%82%B9%E3%83%9E%E3%83%9B%E3%83%97%E3%83%A9%E3%83%B3%E3%81%A7%E6%9C%80%E5%A4%A710-300%E5%86%86%E3%81%8C%E7%84%A1%E6%96%99%E3%80%91UQ-mobile-%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%AB%E3%83%A0%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8-Android%E5%AF%BE%E5%BF%9CSIM/dp/B07YBZ3D22/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;#x26;keywords=UQ&amp;#x26;qid=1585131619&amp;#x26;sr=8-5&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;이 링크&lt;/a&gt;를 들어가면 아마존에서 350엔짜리 다운로드판을 구매하여, 인터넷으로 가입할 수 있다. 이 방법의 장점은 어디서나 신청이 가능하다는 점과, 3000엔의 캐쉬백을 받을 수 있다는 점이다. 운이 좋으면 아마존 기프트권도 받을 수 있다.&lt;/p&gt;
-&lt;p&gt;하지만, 역시 단점이 있으니… 우선 처리 시간이 오래 걸린다. 재류카드 앞뒤, 주민표 등 준비할 자료가 많다. 그리고 알 수 없는 이유로 신청을 반려한다. 한번 반려당하고 다시 신청하면, 다음날까지 답을 기다려야 했다.&lt;/p&gt;
-&lt;p&gt;나는 이틀간 반려와 신청을 거듭하다 지친 나머지, 다음 방법으로 신청했다. 이 글을 읽으시는 분들은 우선 1번으로 신청해보시고, 안되면 바로 2번 방법으로 신청하시는 것을 추천한다.&lt;/p&gt;
-&lt;h3 id=&quot;2-오프라인-매장&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%A7%A4%EC%9E%A5&quot; aria-label=&quot;2 오프라인 매장 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. 오프라인 매장&lt;/h3&gt;
-&lt;p&gt;가장 편리한 방법이다. 직원과 이야기하면서 가입절차를 밟으니 모르는 점을 바로바로 물어볼 수 있고, 퇴짜를 놓는 일도 없다. 1시간만에 일본 번호를 개통할 수 있다. 나는 나고야역 근처 빅카메라를 찾아가서 계약했다.&lt;/p&gt;
-&lt;p&gt;오프라인 신규계약의 경우, USIM 수수료만 든다. 3000엔이라는 무지막지한 금액인데, 결국 무료로 계약할 수 있었다. ‘UQ あんしんパック’라는 옵션을 가입하면 이 수수료가 면제되는 캠페인이 있었기 때문이다. 이 옵션은 가입 후 2개월까지는 무료고, 그 이후에는 500엔이 부과되니 꼭 잊지말고! 다음날 UQ 모바일 마이페이지에 들어가서 해지하도록 하자.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2017 JAL Scholarship Program 후기]]></title><description><![CDATA[즐거웠던 23일간의 2017 JAL SCHOLARSHIP PROGRAM 후기.]]></description><link>https://sungpyocho.github.io/posts/2017-jal-scholarship-review</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/2017-jal-scholarship-review</guid><pubDate>Thu, 04 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;p&gt;이런 위기를 감수하실 각오가 되어 있으신지 묻고 싶다. 그럼에도 일본 취업을 결정했다면, 일본에 취업하고자 하는 확실한 목적과 이루고자 하는 분명한 목표를 세우고 일본 취업을 준비했으면 좋겠다. 남들보다 끈기있게 노력하고 도전하실 준비가 되었다면, 분명 후회없는 행복한 해외생활을 하며 즐겁게 일할 수 있을 것이다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2017 JAL Scholarship Program 후기]]></title><description><![CDATA[즐거웠던 23일간의 2017 JAL SCHOLARSHIP PROGRAM 후기.]]></description><link>https://sungpyocho.github.io/posts/2017-jal-scholarship-review</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/2017-jal-scholarship-review</guid><pubDate>Thu, 04 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
@@ -271,38 +229,38 @@
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAABpUlEQVQ4y62STygEURzH34xdxRbtzL4xI2FnBqdV9uKiPRDJRS7ixMFJuQitWiknF+WoJEfl6uTkJjdydd5VHKWUA5+ZefsP2U1efXrf3++93/f93rwR4odRFKYoQTBKoTbIGeFcm29qlA0ibWjf16NcdIjZjGG9GUU6upMOE8ytfzUtF/h0vAxpdAYW0aNfTRteuVjp0jylYAQk+gKm0MeQaspMmaiTzWG4VYXTMKP0Jfl5pfWGj8MGXc05Cl5hC30D48r4Hb1S3tuEYeXbOPD2JMwPiu7R1zzAw4tIERtj1Q5/uLZnW8JzLOHCZEqKq1jUJQZ5KMIR7MM5HARrS0kpNjtSYU2A50hlFibkbx1PwMmjMM6ehbHw2+1cW9Z12QIaJPocK5aTUps1Zfxr0aAt43e6KXocK+6z37WttgDPlu21Zlna3oVtWCcuMBeYdzJdMovJLmwM2fKQwjxrc6ztcbs9dBCvwWrV0JH9JNIwAJ1s7AEf3U1hEnxwoY+cp9Z6idNoN6qTTuVB/mu4NQ+jBbgRwq3q+tiuy2vhN6/EMvzdPgGgVo1JuE6LmwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAABzUlEQVQ4y5WSv2/TQBTHn11SIQIZfDnnEkCK7KhVVZImUCF1ZkJqGAlCLKyIn1WHthMDbPwYUOcOiLkgMSCxAerfgMScdqroUEBiCR/nzomJqHAtffS+d++9r9/5LPKPpy9KdiVwMdXBMI5RkutJDRxe/+91kvdS3c9jmjXL6DNQzEw8yuWdMG1osL4O59Az0EPXsy/MaTikQMMWzMEs67ewjN487oS+M7wCn9xlXENfdd/zCyw5Q/84hjdo+A630JioGroLv9BdV5PHMPDd2xdhQNNPJvtG3CH27V4wf+SEsQkt1VAieHq6LG9OKjmwv8Vr2IXnHP0J8T283Ce3Pa28F8XysCchrmqJjBZnpEe0Klo+FJQ3oOljQSWmt+Edhtt7HP+rp+Q3uR9QOmuHiUzGMJowbJhwqomp1EPpBVo+n1DyqFSWV6fKcohJpRYOc+2KrcfQx9CPjZ6yE9ojX8Z4Ax7CA9ZrxNWG0SsLFd2heB3uzRr9jHiH3DI1jzndOvo+3IWbbkLtkbjARhsugmHdoqGDniEajBehjW6y1yG/QJwnJjXJ3iV8zicT27Hdh/0v7vLi0UVM1owNvWiMREetTeiltXF1rC06Qf4A/yC3km8hCv8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/ae10867850b0633d33eb591afb50b1ea/8ac56/20190703-Japan_Airlines_logo-wordmark.webp 240w,
+          &lt;source
+              srcset=&quot;/static/ae10867850b0633d33eb591afb50b1ea/8ac56/20190703-Japan_Airlines_logo-wordmark.webp 240w,
 /static/ae10867850b0633d33eb591afb50b1ea/d3be9/20190703-Japan_Airlines_logo-wordmark.webp 480w,
 /static/ae10867850b0633d33eb591afb50b1ea/e46b2/20190703-Japan_Airlines_logo-wordmark.webp 960w,
 /static/ae10867850b0633d33eb591afb50b1ea/f992d/20190703-Japan_Airlines_logo-wordmark.webp 1440w,
 /static/ae10867850b0633d33eb591afb50b1ea/882b9/20190703-Japan_Airlines_logo-wordmark.webp 1920w,
 /static/ae10867850b0633d33eb591afb50b1ea/d3f94/20190703-Japan_Airlines_logo-wordmark.webp 2272w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/ae10867850b0633d33eb591afb50b1ea/8ff5a/20190703-Japan_Airlines_logo-wordmark.png 240w,
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/ae10867850b0633d33eb591afb50b1ea/8ff5a/20190703-Japan_Airlines_logo-wordmark.png 240w,
 /static/ae10867850b0633d33eb591afb50b1ea/e85cb/20190703-Japan_Airlines_logo-wordmark.png 480w,
 /static/ae10867850b0633d33eb591afb50b1ea/d9199/20190703-Japan_Airlines_logo-wordmark.png 960w,
 /static/ae10867850b0633d33eb591afb50b1ea/07a9c/20190703-Japan_Airlines_logo-wordmark.png 1440w,
 /static/ae10867850b0633d33eb591afb50b1ea/29114/20190703-Japan_Airlines_logo-wordmark.png 1920w,
 /static/ae10867850b0633d33eb591afb50b1ea/a3a74/20190703-Japan_Airlines_logo-wordmark.png 2272w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/ae10867850b0633d33eb591afb50b1ea/d9199/20190703-Japan_Airlines_logo-wordmark.png&quot;
-          alt=&quot;Jal Logo&quot;
-          title=&quot;Jal Logo&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/ae10867850b0633d33eb591afb50b1ea/d9199/20190703-Japan_Airlines_logo-wordmark.png&quot;
+            alt=&quot;Jal Logo&quot;
+            title=&quot;Jal Logo&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;JAL 스칼라십 프로그램에 지원하려는 여러분 안녕하세요! 저는 전공은 중국어이지만 일본과의 문화교류에 항상 관심이 많았기에, JAL 스칼라십 프로그램은 공고가 날 때부터 꼭 지원하고자 마음을 먹었습니다. 무엇보다 ‘항공사’와 ‘국제교류’에 관심이 많은 저에게 일본항공 재단에서 아시아와 오세아니아의 대학생들을 초대해 국제교류의 장을 만들어준 것은, 거부할 수 없는 매력으로 다가왔습니다. 17년도의 주제는 ‘생각해보자! 아시아의 환경, 세계의 환경 ~지금, 우리들이 환경을 위해 할 수 있는 것~‘이었습니다. 처음 이 주제를 받고 에세이를 구상했을 때는 정말 어떤 내용으로 글을 전개해야 할지 걱정이 앞섰지만, 결국 자료조사와 수많은 고민을 거쳐 ‘녹색 소비(Green Consumption)’로 제 주장을 정리했습니다. 이때만 해도 제가 최종면접을 보게 되고, 선발될 줄은 상상도 못 했습니다. 면접 후 학교에서 수업 중 “일본항공입니다. 합격하셨습니다.”라는 전화를 받고 정말 기뻐했던 것이 아직도 생생합니다.&lt;/p&gt;
@@ -310,14 +268,14 @@
 &lt;figure class=&quot;float-left&quot; style=&quot;width: 240px&quot;&gt;
 	&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 355px; &quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/8f61b/20190704-img1.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 122.08333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABq7dAikMdIaBH/8QAHRAAAQQCAwAAAAAAAAAAAAAAAAECERMDEhQhIv/aAAgBAQABBQKpyJW847jF0WpD1fO/mTeT/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQIBAT8BI//EAB0QAAAFBQAAAAAAAAAAAAAAAAABETEyAgMQICL/2gAIAQEABj8CjlKmMnEhxcNNP//EABsQAAMBAQADAAAAAAAAAAAAAAERIQBREEFh/9oACAEBAAE/IVBFEUnGTnMOORPbSWSYnqDuBSB80gOeBgpN/9oADAMBAAIAAwAAABD30D//xAAXEQEBAQEAAAAAAAAAAAAAAAAAAREx/9oACAEDAQE/ENja6r//xAAYEQACAwAAAAAAAAAAAAAAAAAAEQEQIf/aAAgBAgEBPxDQoGq//8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFBUWFxwf/aAAgBAQABPxCyRSQtr+TFputBXn5iKs18OMFaJLFV0dHBrK4m9hB0F9neB4MTS3lBjzj9bi009jvHLUgItz//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 122.08333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHNtBKhx4h0CP/EAB0QAAEEAgMAAAAAAAAAAAAAAAABAhESAxMUISL/2gAIAQEAAQUC1ORNTzjuMXRtSH3m/mS8n//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/ASP/xAAdEAAABQUAAAAAAAAAAAAAAAAAARExMgIDECAi/9oACAEBAAY/Ao5SpjJxIcXDTT//xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhURBBYXH/2gAIAQEAAT8hqE0mrFKv8hxlB1qpSzHaL2I1w/kyDng4esn/2gAMAwEAAgADAAAAEHfAP//EABcRAQEBAQAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8Q2Nrqv//EABgRAAIDAAAAAAAAAAAAAAAAAAARARAh/9oACAECAQE/ENCgar//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAhMUFRYYHB/9oACAEBAAE/ELJHBltfyYgbLoK8+J8xQqSvhxCbRJUVujo4NZXGnVCnQX2d4MhBNLeUGPOP24tCPY7xyxkBFuf/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source srcset=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/8ac56/20190704-img1.webp 240w,
+          &lt;source srcset=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/8ac56/20190704-img1.webp 240w,
 /static/92ed112692ace28e7a58ebb5cc088eb0/918eb/20190704-img1.webp 355w&quot; sizes=&quot;(max-width: 355px) 100vw, 355px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/09b79/20190704-img1.jpg 240w,
+          &lt;source srcset=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/09b79/20190704-img1.jpg 240w,
 /static/92ed112692ace28e7a58ebb5cc088eb0/8f61b/20190704-img1.jpg 355w&quot; sizes=&quot;(max-width: 355px) 100vw, 355px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/8f61b/20190704-img1.jpg&quot; alt=&quot;Haneda Airport&quot; title=&quot;Haneda Airport&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-      &lt;/picture&gt;
+          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/8f61b/20190704-img1.jpg&quot; alt=&quot;Haneda Airport&quot; title=&quot;Haneda Airport&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+        &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 	&lt;figcaption&gt;JAL &amp;#xD558;&amp;#xB124;&amp;#xB2E4; &amp;#xC815;&amp;#xBE44;&amp;#xACF5;&amp;#xC7A5;&amp;#xC5D0;&amp;#xC11C;&lt;/figcaption&gt;
@@ -327,14 +285,14 @@
 &lt;figure class=&quot;float-right&quot; style=&quot;width: 300px&quot;&gt;
 	&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 355px; &quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/8f61b/20190704-img2.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 76.25%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABtC7KV2IAf//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMTBBL/2gAIAQEAAQUCyrENdUrUBeh21DNPTCf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGK/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAgEBPwG5Zf/EABsQAAICAwEAAAAAAAAAAAAAAAABEUEQEiGR/9oACAEBAAY/AuwV4Qhwzalj/8QAGxABAAIDAQEAAAAAAAAAAAAAAQBBESExkeH/2gAIAQEAAT8hoPE+hDDiLU2ODAR+3XMbiX2f/9oADAMBAAIAAwAAABB3H//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8QjCEf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREAIf/aAAgBAgEBPxDhblLd/8QAHBABAAICAwEAAAAAAAAAAAAAAREhADFBUWGB/9oACAEBAAE/ECjC3K9YaaIsHZGs1sNxuePMYoGk1rrFllkbK3QfXFoiKg9Of//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 76.25%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgMG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAG0Lsinhzxl/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxMEEv/aAAgBAQABBQLOsQ11StQF6HbUM09MJ//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AYr/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAECAQE/Abll/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERQRASkSH/2gAIAQEABj8C9jhXCEOGbUsf/8QAGxAAAgMBAQEAAAAAAAAAAAAAAAERMUEhYeH/2gAIAQEAAT8hyA+iMgpvCRxLiH+7Zsez2z//2gAMAwEAAgADAAAAEMDf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxCMIR//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EMLRs9P/xAAcEAEAAgMBAQEAAAAAAAAAAAABESEAMUFRYZH/2gAIAQEAAT8QKsPcq1hpoSwekaxSlNxc8J1iFAlT88xJRZGlTNH64hEwVBxK5//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source srcset=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/8ac56/20190704-img2.webp 240w,
+          &lt;source srcset=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/8ac56/20190704-img2.webp 240w,
 /static/38a61b3f0beacddbffe7afe4f566bd5c/918eb/20190704-img2.webp 355w&quot; sizes=&quot;(max-width: 355px) 100vw, 355px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/09b79/20190704-img2.jpg 240w,
+          &lt;source srcset=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/09b79/20190704-img2.jpg 240w,
 /static/38a61b3f0beacddbffe7afe4f566bd5c/8f61b/20190704-img2.jpg 355w&quot; sizes=&quot;(max-width: 355px) 100vw, 355px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/8f61b/20190704-img2.jpg&quot; alt=&quot;JAL Symposium&quot; title=&quot;JAL Symposium&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-      &lt;/picture&gt;
+          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/8f61b/20190704-img2.jpg&quot; alt=&quot;JAL Symposium&quot; title=&quot;JAL Symposium&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+        &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 	&lt;figcaption&gt;JAL &amp;#xC2EC;&amp;#xD3EC;&amp;#xC9C0;&amp;#xC6C0;&amp;#xC5D0;&amp;#xC11C; &amp;#xCD5C;&amp;#xC6B0;&amp;#xC218;&amp;#xC0C1;&amp;#xC744; &amp;#xBC1B;&amp;#xACE0; &amp;#xB4E4;&amp;#xB72C; &amp;#xC6B0;&amp;#xB9AC;&amp;#xB4E4;&lt;/figcaption&gt;
