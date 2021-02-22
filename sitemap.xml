@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://sungpyocho.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/posts/2017-jal-scholarship-review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/posts/six-months-in-japanese-company</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/posts/home-liner-hamamatsu-no5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/posts/2017-jal-scholarship</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/posts/japanese-mno-comparison</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/tag/jal-scholarship</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/tag/일본생활</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/category/japan</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/category/japan/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sungpyocho.github.io/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>

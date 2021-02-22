@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[pyopyo]]></title><description><![CDATA[일본 직장인 1년차 분투기]]></description><link>https://sungpyocho.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 22 Feb 2021 10:52:23 GMT</lastBuildDate><item><title><![CDATA[[일본에서 절약하기] 1. 통신비]]></title><description><![CDATA[어떤 통신사를 골라야 하지? 일본에 온 사람이라면 누구나 고민하는 문제다. 스가 정권의 요금 인하 압박 하에 일본 통신사들은 무한경쟁 속에 내몰리는 중이다. 각 통신사의 요금제를 비교해보고, 가장 합리적인 요금제를 찾아본다.]]></description><link>https://sungpyocho.github.io/posts/japanese-mno-comparison</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/japanese-mno-comparison</guid><pubDate>Sun, 21 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;일본에서 어떤 통신사를 가입해야 할까?&lt;/p&gt;
+&lt;p&gt;일본에 온 사람이라면 누구나 고민하는 문제다. 통신비는 매달 나가는 고정지출이고, 한 번 고르면 갈아타기 귀찮아서 한 통신사를 계속 쓰는 경향이 있기 때문에 처음에 잘 골라야 한다.&lt;/p&gt;
+&lt;p&gt;우선 일본 통신사 시장의 최근 역사를 짚어보자.&lt;/p&gt;
+&lt;h2 id=&quot;0격변하는-일본-통신사-시장&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#0%EA%B2%A9%EB%B3%80%ED%95%98%EB%8A%94-%EC%9D%BC%EB%B3%B8-%ED%86%B5%EC%8B%A0%EC%82%AC-%EC%8B%9C%EC%9E%A5&quot; aria-label=&quot;0격변하는 일본 통신사 시장 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;0.격변하는 일본 통신사 시장&lt;/h2&gt;
+&lt;p&gt;몇년 전까지만 해도 일본 통신사는 최악이었다. 2년 노예계약 강제, 비싼 요금, 적은 데이터가 거의 모든 통신사의 업계 관행이었다. 심지어 2년 노예계약도 2년 계약이 끝난 후 1개월 안에 변경하지 않으면 자동으로 연장되는 식이었다. 소비자는 울며 겨자먹기 식으로 호구가 될 수 밖에 없었다.&lt;/p&gt;
+&lt;p&gt;다행히 아베 정권 말기에 들어서며 총무성이 갑자기 제정신을 차렸다. 통신사들에게 ‘2년 노예계약을 없애라’, ‘번호이동 수수료를 낮춰라’라고 압력을 넣기 시작한 것이다. 게다가 총무성은 도코모, au, 소프트뱅크 3사가 과점 중이던 메인통신사 시장에 라쿠텐을 참여시킴으로써 시장에 변화를 몰고 왔다. 제 4통신사로 승격된 라쿠텐모바일은 ‘통화/데이터 무제한! 2980엔! 심지어 1년 무료!’라는 파격적인 요금제를 내걸었다. 하지만 기존 메인통신사들은 별 다른 움직임을 보이지 않았다. 라쿠텐 모바일은 자사망을 확충하기까지 시간이 매우 오래 걸리고, 통신품질도 안좋으니 소비자는 기존 통신사로 돌아올 것이라는 판단이었다. 기존 통신사는 요금 인하를 하지 않고 버티는 지지부진한 상황이 계속되었다.&lt;/p&gt;
+&lt;p&gt;이 때 아베가 갑자기 지병을 이유로 깜짝 퇴진하고, 스가 요시히데 정권이 들어섰다. 스가는 정권 출범 직후 ‘핸드폰 요금을 낮추겠다’고 공언하며, 통신사들을 전방위로 압박했다. 가장 먼저 백기를 든 것은 도코모였다. 도코모는 ‘아하모(ahamo)‘를 런칭하며, 월 20기가, 전화 5분 이내 무제한 요금제를 2980엔이라는 파격적인 가격에 내놓았다. 도코모가 이런 요금을 내놓자, au와 소프트뱅크도 povo와 Softbank on LINE이라는 비슷한 요금제를 내놓았다. 라쿠텐 모바일에게는 어안이 벙벙한 상황이었다. 어떤 소비자가 같은 요금을 내고 통신 품질이 월등하게 밀리는 라쿠텐을 쓸까? 결국 라쿠텐은 2월 초, 기존 요금제를 개편하여 ‘쓴 만큼 내는’ 종량제 요금제를 선언하게 된다. 이에 질 세라, 다른 알뜰폰 통신사(MVNO) 들도 저렴한 요금제를 이것저것 내놓기 시작한다. 통신사 시장의 무한경쟁체제가 펼쳐지게 된 것이다.&lt;/p&gt;
+&lt;h2 id=&quot;1-일본-통신사의-종류-및-추천&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-%EC%9D%BC%EB%B3%B8-%ED%86%B5%EC%8B%A0%EC%82%AC%EC%9D%98-%EC%A2%85%EB%A5%98-%EB%B0%8F-%EC%B6%94%EC%B2%9C&quot; aria-label=&quot;1 일본 통신사의 종류 및 추천 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. 일본 통신사의 종류 및 추천&lt;/h2&gt;
+&lt;p&gt;다음으로는 일본의 통신시장의 구조에 대해서 알아보자. 일본 통신사는 크게 ‘대형통신사’, ‘서브브랜드’, ‘알뜰폰’의 세 분류로 나누어진다. 대형통신사는 도코모, KDDI(au), 소프트뱅크, 라쿠텐의 4사이다. 이 통신사들은 자사망을 통해 우월한 통신품질을 자랑한다(라쿠텐은 제외하고…). 서브브랜드는 저렴한 요금제로 승부하는 대형통신사의 자회사이다. 대형항공사들이 낸 저가항공사 브랜드를 생각하면 딱 맞다. 대한항공이 진에어를 만들고 아시아나가 에어서울을 만들어 저렴한 티켓을 원하는 니즈를 노린 것처럼, au는 UQ Mobile, 소프트뱅크는 Y!Mobile이란 브랜드로 시장을 공략하고 있다. 알뜰폰처럼 본점 망을 빌려 쓰는 건 맞지만, 자사망을 갖고 있는 Y!Mobile이 있기 때문에 ‘서브브랜드’로 분류되는 듯 하다. 마지막으로 알뜰폰은 메인통신사의 망을 빌려쓰는 업체로, 일본통신, HIS mobile, ocn mobile, aeon mobile 등 수많은 업체가 있다.&lt;/p&gt;
+&lt;p&gt;몇 개월 전까지만 해도 대형통신사 요금제는 매우 비싸서 추천할 수도 없었지만, 2000엔대의 신요금제가 하나 둘 출시되며 상황이 많이 달라졌다. 서브브랜드와 알뜰폰의 금액적인 메리트가 많이 희석되었기 때문이다. &lt;strong&gt;그래서 도일해서 새롭게 통신사를 알아봐야 하는 예비 직장인이나 유학생 분들, 아니면 통신사를 바꿔보고자 하는 일본 거주자 분들에게는 아래 설명할 대형통신사의 신요금제 중에서 마음에 드는 요금제를 고르길 추천드린다.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;2-대형통신사（大手）의-요금제&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-%EB%8C%80%ED%98%95%ED%86%B5%EC%8B%A0%EC%82%AC%EF%BC%88%E5%A4%A7%E6%89%8B%EF%BC%89%EC%9D%98-%EC%9A%94%EA%B8%88%EC%A0%9C&quot; aria-label=&quot;2 대형통신사（大手）의 요금제 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. 대형통신사（大手）의 요금제&lt;/h2&gt;
+&lt;p&gt;한국에 SK, KT, U+이 있다면 일본에는 도코모, KDDI(au), 소프트뱅크가 있다. 한국과 마찬가지로 대형통신사의 통신품질은 월등히 좋지만, 요금제 가격이 사악하다는 문제점이 있다. 도코모의 ‘기가호(ギガホ)’, ‘기가라이트(ギガライト)’ 등 4000엔 전후의 요금제가 대표적이다.&lt;/p&gt;
+&lt;p&gt;하지만 2021년 4월부터는 대형통신사들이 내놓은 월 데이터 20기가, 2480엔~2980엔 요금제가 정식으로 출범한다. 도코모의 ahamo, au의 povo, 소프트뱅크의 Softbank on LINE 3대장이 바로 그 예다. 2020년 4월부터 도전장을 내밀었던 라쿠텐은 가입 시 1년 무료라는 공격적인 마케팅을 펼치고 있는데, 최근 요금제를 개편했다. 이 네 통신사들의 요금제를 알기 쉽게 표를 만들어 보았다. 아 참, 아래 표의 요금제는 모두 4G/5G를 쓸 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/761e1a7d7cb1030433ea08ae16eeb4a1/8f12b/20210201-comparison-table.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.583333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAWJMxHK2jf/EABsQAAEEAwAAAAAAAAAAAAAAAAABAgMTBBEx/9oACAEBAAEFAoUa9KmFURjcNH//xAAWEQADAAAAAAAAAAAAAAAAAAACEDH/2gAIAQMBAT8BGL//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAhEx/9oACAECAQE/AZat/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECMhAR/9oACAEBAAY/An7EmUYkff/EAB0QAAICAQUAAAAAAAAAAAAAAAABESExQVGRobH/2gAIAQEAAT8hjgQ9EcuK7cO0iPRZW8n/2gAMAwEAAgADAAAAEDg//8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oACAEDAQE/EBRdDf/EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EKMkS0//xAAdEAEAAwABBQAAAAAAAAAAAAABABEhMUFRYaHR/9oACAEBAAE/EH6mSnLyHtGdI130uRmaVPlAVhW52h4M/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/761e1a7d7cb1030433ea08ae16eeb4a1/8ac56/20210201-comparison-table.webp 240w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/d3be9/20210201-comparison-table.webp 480w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/e46b2/20210201-comparison-table.webp 960w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/f992d/20210201-comparison-table.webp 1440w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/e830a/20210201-comparison-table.webp 1506w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/761e1a7d7cb1030433ea08ae16eeb4a1/09b79/20210201-comparison-table.jpg 240w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/7cc5e/20210201-comparison-table.jpg 480w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/6a068/20210201-comparison-table.jpg 960w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/644c5/20210201-comparison-table.jpg 1440w,
+/static/761e1a7d7cb1030433ea08ae16eeb4a1/8f12b/20210201-comparison-table.jpg 1506w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/761e1a7d7cb1030433ea08ae16eeb4a1/6a068/20210201-comparison-table.jpg&quot;
+            alt=&quot;일본 메이저 통신사의 신요금제&quot;
+            title=&quot;일본 메이저 통신사의 신요금제&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-1-font-colorred도코모---ahamofont&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-1-font-colorred%EB%8F%84%EC%BD%94%EB%AA%A8---ahamofont&quot; aria-label=&quot;2 1 font colorred도코모   ahamofont permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2-1. &lt;font color=&quot;Red&quot;&gt;도코모 - ahamo&lt;/font&gt;&lt;/h3&gt;
+&lt;p&gt;아하모는 3월 26일 정식 서비스 시작 예정이기 때문에, 우선 발표된 요금제에서 눈여겨볼 특징만 정리했다.&lt;/p&gt;
+&lt;h4 id=&quot;특징&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%8A%B9%EC%A7%95&quot; aria-label=&quot;특징 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;특징&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;고품질 통신망&lt;/strong&gt;. 도코모는 어딜 가도 일본 통신사 중에서 가장 잘 터진다. 4G LTE망의 인구커버율도 99.9%가 넘는다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5분 통화 포함&lt;/strong&gt;. au와 소프트뱅크와는 달리, 5분 이내 무제한 통화가 포함되었다. 단, 500엔 비싸다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;82개국 데이터 로밍&lt;/strong&gt;. 잠깐 한국에 돌아가도 월별 잔여 데이터만큼 로밍을 무료로 쓸 수 있다. 즉, 최대 20기가까지 추가요금 없이 해외로밍이 가능하니 해외여행을 가거나, 한국에 잠깐 돌아갈 때에는 좋은 선택지다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-2-font-colormediumblueau---povofont&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-2-font-colormediumblueau---povofont&quot; aria-label=&quot;2 2 font colormediumblueau   povofont permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2-2. &lt;font color=&quot;MediumBlue&quot;&gt;au - povo&lt;/font&gt;&lt;/h3&gt;
+&lt;p&gt;povo는 3월 중 서비스 예정이고, 5G망은 21년 여름 추가된다. povo의 특징은 딱 하나, 저렴해 ‘보이는’ 요금제이다.&lt;/p&gt;
+&lt;h4 id=&quot;특징-1&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%8A%B9%EC%A7%95-1&quot; aria-label=&quot;특징 1 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;특징&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;전화 잘 안 하는 사람들을 노린 요금제&lt;/strong&gt;. 아하모와 비교해서 요금이 500엔 저렴한 대신 통화 5분 이내 무제한 옵션이 빠졌다. 물론 500엔짜리 5분 이내 통화 옵션을 추가하면 결국 요금은 2980엔으로 똑같아진다. 즉, 전화를 잘 안하는 사람에게는 이득인데, 이게 povo의 최대 강점이기도 하다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;24시간 데이터 무제한 200엔&lt;/strong&gt;. 200엔을 추가하면 하루 데이터를 무제한으로 쓸 수 있다. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-3-font-colorlimegreen소프트뱅크---linemofont&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-3-font-colorlimegreen%EC%86%8C%ED%94%84%ED%8A%B8%EB%B1%85%ED%81%AC---linemofont&quot; aria-label=&quot;2 3 font colorlimegreen소프트뱅크   linemofont permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2-3. &lt;font color=&quot;LimeGreen&quot;&gt;소프트뱅크 - LINEMO&lt;/font&gt;&lt;/h3&gt;
+&lt;p&gt;소프트뱅크는 LINE과 경영통합을 한다는 이점을 살려, 기존의 LINE MOBILE을 통폐합시키고 이 요금제를 출시했다. 3대장 중에서는 가장 인지도가 떨어지는 요금제이지만, ‘라인 데이터가 무제한’이라는 이점이 있다. 요금은 povo와 동일하게 통화 5분을 뺀 2480엔이다. 작명 센스는…아하모 따라했니?&lt;/p&gt;
+&lt;h4 id=&quot;특징-2&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%8A%B9%EC%A7%95-2&quot; aria-label=&quot;특징 2 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;특징&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;라인 데이터 무제한&lt;/strong&gt;. 라인 어플에서 쓰는 데이터는 월 사용량에 합산되지 않는다. 즉 라인으로 톡을 보내든, 전화를 하든, 파일을 업로드하든 소비하는 데이터는 0이다. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;라인 크리에이터즈 이모티콘 5개까지 무료제공&lt;/strong&gt;. 요즘 카카오톡에서도 따라하기 시작한 이모티콘 월 구독제의 베이직 플랜(5개 제한) 라인모 사용자들에게는 무료로 제공한다. 라인과 경영통합한 소프트뱅크의 기세를 느낄 수 있는 부분이다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;속도제한 명시&lt;/strong&gt;. 라인모는 다른 건 다 좋은데 이 점에서 점수를 깎아먹었다. ‘알뜰폰 요금제도 아닌데 속도제한을 한다고?‘라는 생각이 들지만 보도자료에서 소뱅은 무려 ‘혼잡시 속도제한을 실시합니다’라고 명시적으로 선언했다. 기자회견에서는 혼잡시도 포함해 소뱅과 같은 품질의 데이터를 제공할 것이라고 사장이 명시적으로 밝혔는데, 그렇다면 소뱅 본회선이 속도제한을 하고 있다는 뜻인가? 이 점은 3월 17일 라인모 서비스 시작 이후에 다시 확인해볼 필요가 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2-4-font-colormagenta라쿠텐---rakuten-unlimited-vifont&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-4-font-colormagenta%EB%9D%BC%EC%BF%A0%ED%85%90---rakuten-unlimited-vifont&quot; aria-label=&quot;2 4 font colormagenta라쿠텐   rakuten unlimited vifont permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2-4. &lt;font color=&quot;Magenta&quot;&gt;라쿠텐 - Rakuten Unlimited VI&lt;/font&gt;&lt;/h3&gt;
+&lt;p&gt;현재 내가 사용하고 있는 통신사이다. 라쿠텐 모바일을 1년 가까이 쓰면서 느낀 건 ‘통신 품질은 정말 부족하지만 가격으로 승부하는 통신사’라는 것이었다. 1년동안 기다리며 통신품질 문제가 해결되길 기다렸지만, 결국 해결되지 않았기에 4월부터는 아하모로 통신사를 옮길 예정이다.&lt;/p&gt;
+&lt;h4 id=&quot;장점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%A5%EC%A0%90&quot; aria-label=&quot;장점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;장점&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1년 무료&lt;/strong&gt;. 가입자가 300만명에 도달할 때 까지 실시하는 켐페인이다. 한 달 통신비가 3000엔이라면, 1년간 무려 4만엔을 아낄 수 있다. 새롭게 일본에 도일하는 분들은 우선 라쿠텐 모바일에 가입해서 1년 무료로 써볼 것을 추천한다. 다만 현재는 약 220만명이 가입 상태기 때문에 금방 종료될 수 있다. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;저렴한 요금제&lt;/strong&gt;. 4월부터 개편하는 요금제는 쓴 데이터에 따라 요금제가 청구되는 특이한 방식이다. 쓴 데이터가 1기가 이하면 0엔, 3기가 이하면 980엔, 20기가 이하면 1980엔, 그 이상은 2980엔을 청구한다. 현재 가입한 220만명을 어떻게든 잡아두려는 라쿠텐의 눈물겨운 노력이 보이는 요금제다. 사람에 따라 다르겠지만 사실 현실적으로 3기가 이하를 쓰긴 어려우므로 월별 청구되는 금액은 1980엔이라고 봐야 한다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;전화 및 문자 무제한&lt;/strong&gt;. 통화 무제한의 혜택을 누리기 위해선 Rakuten Link라는 통화/메세지 어플을 깔아야만 한다. Rakuten Link는 라쿠텐 회선의 데이터 혹은 와이파이를 써서 전화하는 방식이므로, 통화 품질은 안좋다는 평이 많다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;해외로밍 및 라쿠텐 포인트&lt;/strong&gt;. 해외에서 로밍 데이터 2기가/월을 제공하고, SMS도 무료다. 하지만 월 최대 20기가 한도 안에서 해외에서 데이터를 쓸 수 있는 아하모에 비하면 아쉬운 스펙이다. 또한 라쿠텐 모바일을 쓰면 라쿠텐 이치바에서 쇼핑할 때 붙는 SPU라는 포인트가 1% 추가된다. 라쿠텐 이치바의 헤비유저라면 매력적인 포인트다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;단점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A8%EC%A0%90&quot; aria-label=&quot;단점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;단점&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;빈약한 라쿠텐 망&lt;/strong&gt;. 라쿠텐 유저들이 가장 불만인 것이 바로 이 품질이다. 라쿠텐은 공격적으로 라쿠텐 자사망을 늘려 나가고는 있지만, 대도시 안에서도 지하철이나 건물 안에서는 데이터가 안잡히는 경우가 꽤 많다. 실제 나고야역 니토리나 이케부쿠로 LABO 등, 정상적인 통신사라면 신호가 제대로 잡혀야 하는 시내에서도 먹통이 되는 문제를 겪어봤다. 2021년 2월 말 기준 내가 사는 곳도 라쿠텐 회선 에리어이지만, 실제 라쿠텐 망이 잡히지 않아 파트너 에리어로 처리된다. 즉, 5기가를 다 쓰면 속도제한이 걸린다. 4월에 개편되는 요금제도 동일하게 5기가를 다 쓰면 속도제한이 걸리기 때문에, 실제로는 데이터 5기가를 1980엔에 계약하는 셈이 된다. 통신 3사가 데이터 20기가를 2480엔 혹은 2980엔에 내놓는 것을 생각해본다면, 차라리 통신사를 옮기는 게 낫다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;구형 아이폰 사용불가&lt;/strong&gt;. 라쿠텐 모바일에서 공식적으로 지원하는 아이폰 모델은 XR, XS, 11, SE 2세대 뿐이다. 그래서 8이나 7 등의 구형 아이폰 유저는 공식적으로는 사용할 수 없다. 그러나 언제나 방법은 있는 법. 인터넷을 잘 검색해보면, 구형 아이폰에서도 쓸 수 있게 만들 수 있는 방법이 있다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;아이폰에서는 안울리는 지진경보&lt;/strong&gt;. 일본은 지진이 많기에, 큰 지진이 오기 전 핸드폰으로 재난문자같이 울리는 지진경보 기능이 있다. 그러나 라쿠텐은 뭔 생각인지 아이폰에서는 이 기능을 지원하지 않는다. 야후 재난경보나 NHK 재난경보 앱을 받으면 지진 후에 경보를 받을 수 있긴 하지만, 심리적인 안정감이 떨어지는 것은 어쩔 수 없다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;3-결론&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-%EA%B2%B0%EB%A1%A0&quot; aria-label=&quot;3 결론 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. 결론&lt;/h2&gt;
+&lt;p&gt;&lt;font color=&quot;Red&quot;&gt;&lt;strong&gt;도코모(ahamo)&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 ahamo 추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;일본 어디서도 잘 터지는 통신품질이 제일 중요하다&lt;/li&gt;
+&lt;li&gt;해외여행이나 한국방문 시 현지 통신사 유심 걱정 없이 다녀오고 싶다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 ahamo 비추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;통화를 거의 안한다. 발신이 월 총 10분을 넘지 않는다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;font color=&quot;MediumBlue&quot;&gt;&lt;strong&gt;au(povo)&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 povo 추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;데이터 무제한이 필요한 날이 있을 것 같다(테더링 등)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 povo 비추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;au나 uq mobile 등 au계열 통신사를 안쓴다 → 비 au계열 통신사에서 넘어올 경우 수수료가 들 수 있기 때문&lt;/li&gt;
+&lt;li&gt;전화를 많이 한다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;font color=&quot;LimeGreen&quot;&gt;&lt;strong&gt;소프트뱅크(LINEMO)&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 라인모 추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;라인을 많이 쓴다. 귀여운 라인 스탬프 5개가 무료로 갖고싶다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 라인모 비추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;혼잡시 통신속도 제한이라는 문구가 찝찝하다&lt;/li&gt;
+&lt;li&gt;전화를 많이 한다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;font color=&quot;Magenta&quot;&gt;&lt;strong&gt;라쿠텐&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 라쿠텐 모바일 추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;도쿄, 오사카, 나고야, 후쿠오카 등의 대도시에 거주한다 → 안정적으로 라쿠텐 회선이 잡히기 때문&lt;/li&gt;
+&lt;li&gt;라쿠텐 모바일을 써 본 적이 없다 → 1년 무료 캠페인에 가입해서 우선 무료로 써보고, 맘에 안들면 통신사를 갈아타보자.&lt;/li&gt;
+&lt;li&gt;통신품질보다 가격이 더 중요하다 → 대도시 건물 지하나 화장실같은 곳에서 안터지는 것을 인내할 수 있다면 추천드린다.&lt;/li&gt;
+&lt;li&gt;한 달에 쓰는 데이터가 3기가 미만이다 → 라쿠텐은 이 구간이 980엔인데, 어떤 알뜰폰보다 저렴하다. &lt;/li&gt;
+&lt;li&gt;통화전용으로만 쓸거다 → 통화는 데이터가 들지 않으므로 통화만 쓰면 0엔인데, 데이터는 아하모, povo, LINEMO를 쓰면서 전화발신만 라쿠텐 모바일을 이용하는 듀얼심 운용을 할 때는 라쿠텐도 좋은 선택이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;이런 분들에게는 라쿠텐 모바일 비추천!&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;대도시권에 거주하지 않는다 → 아직은 라쿠텐 회선 에리어여도 라쿠텐망을 못잡기 때문에, 월 데이터 5기가 초과 이용은 포기해야 한다.&lt;/li&gt;
+&lt;li&gt;구형 아이폰 쓴다 → 물론 검색으로 어둠의 경로를 통해 구형 아이폰에서도 동작하게 만들 수 있는 자신이 있는 분은 상관없다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;다음 글은 서브브랜드와 알뜰폰 요금제 중 주목해볼만 한 요금제를 소개하려 한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ホームライナー浜松5号 탑승후기]]></title><description><![CDATA[청춘 18 티켓으로 지옥의 시즈오카 구간 워프하기]]></description><link>https://sungpyocho.github.io/posts/home-liner-hamamatsu-no5</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/home-liner-hamamatsu-no5</guid><pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;연말연시-장기휴가-마지막-날-험난한-귀가의-길&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%97%B0%EB%A7%90%EC%97%B0%EC%8B%9C-%EC%9E%A5%EA%B8%B0%ED%9C%B4%EA%B0%80-%EB%A7%88%EC%A7%80%EB%A7%89-%EB%82%A0-%ED%97%98%EB%82%9C%ED%95%9C-%EA%B7%80%EA%B0%80%EC%9D%98-%EA%B8%B8&quot; aria-label=&quot;연말연시 장기휴가 마지막 날 험난한 귀가의 길 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;연말연시 장기휴가 마지막 날, 험난한 귀가의 길&lt;/h2&gt;
+&lt;p&gt;때는 1월 7일. 잡히지 않는 코로나 바이러스의 확산으로 제 2차 긴급사태선언이 발령된 날이었다. 도쿄에서 행복한 연말연시 장기휴가를 끝내고 아이치현으로 돌아가기 위해 길을 나섰다. 다만 이번엔 교통비를 아끼기 위해 신칸센을 타지 않고, 야후옥션에서 청춘18티켓(青春 18 きっぷ)을 구입했다. 보통열차로 5시간 20분만에 집에 갈 수 있는 방법이 있었기 때문이다.&lt;/p&gt;
+&lt;p&gt;그런데 아뿔싸. 일본 전역에 강풍이 몰아닥치며 대다수 열차가 지연되며, 계획이 완전히 망가졌다. 원래 타려던 홈 라이너 하마마츠 3호(ホームライナー浜松 3 号)를 앞 열차의 지연으로 놓친 것이다. 결국 생각지도 못한 플랜 B를 세워야만 했다. 1시간 뒤에 있는 &lt;strong&gt;홈 라이너 하마마츠 5호&lt;/strong&gt;를 탔다. 다른 열차도 있는데, 왜 이 열차를 고집했을까? 그 이유는 쾌속이 존재하지 않는 시즈오카 현의 철도 특성 때문이다.&lt;/p&gt;
+&lt;h2 id=&quot;미션-일반열차로-시즈오카-현을-빠르고-편하게-이동하라&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AF%B8%EC%85%98-%EC%9D%BC%EB%B0%98%EC%97%B4%EC%B0%A8%EB%A1%9C-%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4-%ED%98%84%EC%9D%84-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%9D%B4%EB%8F%99%ED%95%98%EB%9D%BC&quot; aria-label=&quot;미션 일반열차로 시즈오카 현을 빠르고 편하게 이동하라 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;미션: 일반열차로 시즈오카 현을 빠르고 편하게 이동하라&lt;/h2&gt;
+&lt;p&gt;청춘 18 티켓으로 도쿄-나고야, 도쿄-오사카 등 시즈오카 현을 거쳐 본 사람들은 반드시 공감하는 게 있다. 바로 시즈오카의 일반열차는 지옥이라는 점이다.&lt;/p&gt;
+&lt;p&gt;시즈오카 구간이 지옥인 이유는 두 가지다. 첫째, 쾌속, 신쾌속, 구간쾌속, 특별쾌속 등 쾌속 시리즈가 넘쳐나는 바로 옆 아이치현과는 달리, 시즈오카현은 쾌속이 ‘없다’. 장거리 이동을 하는 청춘18 유저들에겐 청천벽력같은 소식이다. 시즈오카 동쪽 끝 이타미에서 서쪽 끝 하마마츠까지, 모든 역에 정차하며 가야 한다. 그것도 2시간 30분 걸려서 말이다.&lt;/p&gt;
+&lt;p&gt;둘째, 마주보며 앉는 ‘롱 시트(ロングシート)’ 좌석 배치가 많다. 서울 지하철과 같은 롱 시트는 장거리 이동에는 적합하지 않다. 옆에 앉는 사람도 많아 불편할 뿐더러, 창가에 팔을 기대서 잠을 청할 수도 없다. 그래서 일본에서는 장거리 통근수요가 있는 구간은 2-2열로 창가에 직각으로 좌석을 배치한 ‘박스 시트(ボックスシート)’　‘크로스 시트(クロススシート)‘를 사용한다. 하지만 시즈오카 구간은 큼직큼직한 도시 사이를 이어주는 통근수요가 많다는 이유로, 사람을 더 많이 욱여넣을 수 있는 롱 시트를 채용하고 있다. 롱 시트는 출퇴근 시간에 걸리면 인파 때문에 힘들 뿐더러, 허리도 아프다.&lt;/p&gt;
+&lt;h2 id=&quot;구세주-홈-라이너-하마마츠ホームライナー浜松&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B5%AC%EC%84%B8%EC%A3%BC-%ED%99%88-%EB%9D%BC%EC%9D%B4%EB%84%88-%ED%95%98%EB%A7%88%EB%A7%88%EC%B8%A0%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BC%E6%B5%9C%E6%9D%BE&quot; aria-label=&quot;구세주 홈 라이너 하마마츠ホームライナー浜松 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;구세주 홈 라이너 하마마츠(ホームライナー浜松)&lt;/h2&gt;
+&lt;p&gt;그렇다면 청춘18 티켓을 사용해 시즈오카 현을 편하게 이동하는 방법은 정말 없는걸까? 다행히도 ‘홈 라이너’라는 구세주가 있다. 홈 라이너는 각역정차를 하지 않고, 주요 역에만 정차한다. 차량도 특급열차에 쓰는 373계라는 차량을 사용하여, 전 좌석이 크로스 시트다. 시즈오카 구간을 주파하고자 하는 사람들에게는 최적의 선택지이다. 다만 평일만 운행하는 편성이 있는 등, 이런저런 제약이 있기 때문에 시간표를 제대로 확인할 것을 추천한다.&lt;/p&gt;
+&lt;p&gt;내가 원래 타고자 했던 차량은 ‘홈 라이너 하마마츠 3호’였다. 누마즈(沼津)에서 하마마츠(浜松)를 1시간 40분만에 주파하는 귀중한 열차이다. 이 ‘3호’가 다른 홈 라이너 시리즈 중에서 특별한 건 하마마츠부터 보통열차로 바뀌어 아이치현 동쪽 끝 토요하시(豊橋)까지 운행한다는 것이다. 토요하시 서쪽으로는 아이치현 구역이므로 쾌속 열차를 타서 쾌적하게 이동할 수 있다. 이 날은 아쉽게 앞 열차의 지연으로 이 열차를 타지 못했다.&lt;/p&gt;
+&lt;p&gt;그 대신 탑승한 것은 ‘홈 라이너 하마마츠 5호’였다. 누마즈(沼津)에서 하마마츠(浜松)를 운행하는 차량이었다. 타기 위해서는 330엔을 내고 라이너 승차정리권을 사야했다. 이 승차권은 누마즈역 플랫폼의 발매기에서 구할 수 있다. 환승 시간이 짧아 구할 수 없다면 우선 타서 적당한 곳에 앉아있다가, 검표원이 오면 330엔을 내고 살 수도 있다. 원래라면 승차권에 적힌 자리에 앉아야 하지만, 코로나 때문에 아무 자리에나 앉으면 된다. 추천하는 자리는 바로 테이블 좌석! 4인이 테이블을 가운데 두고 마주보고 앉는 좌석에 혼자 앉는다면, 정말 편하게 갈 수 있다. 이 글도 열차 테이블에서 노트북으로 작성했다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[일본 제조업 입사 6개월째 후기]]></title><description><![CDATA[고민 끝에 들어간 일본 제조업 대기업. 지금 생활을 돌아보며 쓴 이야기.]]></description><link>https://sungpyocho.github.io/posts/six-months-in-japanese-company</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/six-months-in-japanese-company</guid><pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;회사를-골랐던-계기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%9A%8C%EC%82%AC%EB%A5%BC-%EA%B3%A8%EB%9E%90%EB%8D%98-%EA%B3%84%EA%B8%B0&quot; aria-label=&quot;회사를 골랐던 계기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;회사를 골랐던 계기&lt;/h2&gt;
+&lt;p&gt;해외에서 개발자로 일하고 싶었다. 한국에서 오래 살다보니, 해외에 나가 색다른 경험을 해보고 싶다는 마음이 컸다. 일본을 택하게 된 것은 대학생 때 한일교류를 많이 했기에 친구들도 많았고, 문화와 생활습관에도 익숙했기 때문이다.&lt;/p&gt;
+&lt;p&gt;개발자로 많이 성장할 수 있는 회사를 찾다가, 결국 두 곳에 내정을 받았다. 요즘 투자회사로 알려진 통신사와 자동차 부품 제조업이었다. 두 군데 모두 소프트웨어 엔지니어로 내정받았기 때문에, 어떤 곳을 선택해야 할지 고민을 많이 했다. 오랜 고민 끝에 자동차 부품 메이커가 개발자로서 성장하기 좋은 회사라고 생각하여 입사를 결정했다.&lt;/p&gt;
+&lt;h2 id=&quot;입사-후-첫-부서배치&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%85%EC%82%AC-%ED%9B%84-%EC%B2%AB-%EB%B6%80%EC%84%9C%EB%B0%B0%EC%B9%98&quot; aria-label=&quot;입사 후 첫 부서배치 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;입사 후 첫 부서배치&lt;/h2&gt;
+&lt;p&gt;입사 후 약 3개월 반의 연수를 거쳐, 지금은 차세대 차량용 초음파 센서를 개발하는 부서에서 근무하게 되었다. 사실 처음 배속이 발표되었을 때는 부 이름까지만 발표되었기에, 이름값만 보고 핵심 기술부서에서 근무하게 될지도 모른다는 기대가 있었다. 하지만 배속날 그 기대는 무너졌다. 분명 ‘모빌리티 소프트웨어 엔지니어 코스’로 입사했건만, 배속된 곳은 소프트웨어가 아닌 하드웨어 설계쪽 부서였다.&lt;/p&gt;
+&lt;h2 id=&quot;희망과는-너무-동떨어졌던-배속&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%9D%AC%EB%A7%9D%EA%B3%BC%EB%8A%94-%EB%84%88%EB%AC%B4-%EB%8F%99%EB%96%A8%EC%96%B4%EC%A1%8C%EB%8D%98-%EB%B0%B0%EC%86%8D&quot; aria-label=&quot;희망과는 너무 동떨어졌던 배속 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;희망과는 너무 동떨어졌던 배속&lt;/h2&gt;
+&lt;p&gt;대기업의 인사배치란 이런 것인가, 라는 생각이 들면서도 어쩔 수 없으니 우선 열심히 해보자는 생각이 함께 들었다. 사실 배속과 희망의 괴리가 너무 컸기에 처음 적응하기가 좀 어려웠다. 코드를 직접 짤 수 있는 부서에 배치받길 기대했건만, 알고 보니 전혀 코딩을 할 일이 없는 하드웨어쪽 부서였이기 때문이다.&lt;/p&gt;
+&lt;p&gt;배속 직후에는 부서가 IT와 큰 관련이 없다는 것을 깨닫고 충격을 받아, 따로 공부를 해야겠다는 다짐을 했었다. 그러나 그것도 잠시 뿐, 직장인의 삶을 살다보니 평일에는 일이 끝나면 지쳐서, 주말에는 집에서 쉬고 싶어서 코딩을 멀리하게 되었다. 의식하지 않고 살다 보면 코딩을 못하는 개발자가 될 수도 있다는 위기감이 몰려왔다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ccae26c61bba0c43e95bb121807de766/d2602/20200915-kariya-at-night.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAFleXsaROI//8QAGRAAAwEBAQAAAAAAAAAAAAAAAAECAxEx/9oACAEBAAEFAnomasjeYmfDp//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/AUf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Bq6//xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRMRAhMv/aAAgBAQAGPwLrSDSFkqs//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITGRQVFh/9oACAEBAAE/IbhB5IDys2CyT8mnZ9oVYdR1tdT/2gAMAwEAAgADAAAAEAvf/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAEDAQE/EDCJ/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qsv/EAB0QAQEBAAEFAQAAAAAAAAAAAAERACFBUWGBscH/2gAIAQEAAT8QFo6E6PvDoSCtHtoyRaCfcGwUscZAtOZ+Nz4vyHf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/ccae26c61bba0c43e95bb121807de766/8ac56/20200915-kariya-at-night.webp 240w,
+/static/ccae26c61bba0c43e95bb121807de766/d3be9/20200915-kariya-at-night.webp 480w,
+/static/ccae26c61bba0c43e95bb121807de766/e46b2/20200915-kariya-at-night.webp 960w,
+/static/ccae26c61bba0c43e95bb121807de766/f992d/20200915-kariya-at-night.webp 1440w,
+/static/ccae26c61bba0c43e95bb121807de766/882b9/20200915-kariya-at-night.webp 1920w,
+/static/ccae26c61bba0c43e95bb121807de766/b33a3/20200915-kariya-at-night.webp 4032w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/ccae26c61bba0c43e95bb121807de766/09b79/20200915-kariya-at-night.jpg 240w,
+/static/ccae26c61bba0c43e95bb121807de766/7cc5e/20200915-kariya-at-night.jpg 480w,
+/static/ccae26c61bba0c43e95bb121807de766/6a068/20200915-kariya-at-night.jpg 960w,
+/static/ccae26c61bba0c43e95bb121807de766/644c5/20200915-kariya-at-night.jpg 1440w,
+/static/ccae26c61bba0c43e95bb121807de766/0f98f/20200915-kariya-at-night.jpg 1920w,
+/static/ccae26c61bba0c43e95bb121807de766/d2602/20200915-kariya-at-night.jpg 4032w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/ccae26c61bba0c43e95bb121807de766/6a068/20200915-kariya-at-night.jpg&quot;
+            alt=&quot;kariya&quot;
+            title=&quot;kariya&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;그래서-시작한-웹개발-취미&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B7%B8%EB%9E%98%EC%84%9C-%EC%8B%9C%EC%9E%91%ED%95%9C-%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%B7%A8%EB%AF%B8&quot; aria-label=&quot;그래서 시작한 웹개발 취미 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;그래서 시작한 웹개발 취미&lt;/h2&gt;
+&lt;p&gt;위기감을 극복하기 위해 평소에 의식적으로 프로그래밍을 시작하게 되었다. 우선 회사 동아리에 가입했다. 동아리에서는 사내 검색엔진을 애자일 개발로 만들었다. 내 강점을 살릴 수 있기에, 함께하는 웹개발은 즐거웠다.&lt;/p&gt;
+&lt;p&gt;한국 친구들과는 주3회 줌 회의를 하며 시각장애인용 주문 어플을 만드는 중이다. 이외에도 개인 프로젝트를 깃허브에 업로드하고, 매일 잔디를 심으려고 노력해보고 있다. 아직은 초짜 개발자이지만, 이왕 취미로 할거면 이직할 수 있을만한 실력을 목표로 하자! 라는 거창한 목표를 세우고 해보는 중이다.&lt;/p&gt;
+&lt;h2 id=&quot;업무에-조금씩-적응해-가다&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%97%85%EB%AC%B4%EC%97%90-%EC%A1%B0%EA%B8%88%EC%94%A9-%EC%A0%81%EC%9D%91%ED%95%B4-%EA%B0%80%EB%8B%A4&quot; aria-label=&quot;업무에 조금씩 적응해 가다 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;업무에 조금씩 적응해 가다&lt;/h2&gt;
+&lt;p&gt;외국인 신입으로서 어떻게 좋은 인상을 남길 수 있을까 많이 고민했다. 특히 태어나서 처음 접해보는 전기/전자 지식들은 너무나도 생소했기에, ‘하루빨리 업무에서 활약할 수 있을까?‘라는 불안감이 있었다. 지금도 그런 불안감과 위기감을 조금씩 느끼고 있는 게 사실이다.&lt;/p&gt;
+&lt;p&gt;일을 잘하는 신입이 되기 위해서는 어떻게 해야할 것일까. 나의 장점을 어떻게 업무에서 살릴 수 있을까. 어떻게 하면 존재감을 드러낼 수 있을까. 이런 고민을 하던 도중, 입사 10년차 선배가 조언을 해주었다.&lt;/p&gt;
+&lt;p&gt;“자신밖에 할 수 없는 영역을 찾아. 회사에서 필요한 인재가 되면 일도 즐거워질거야.”&lt;/p&gt;
+&lt;p&gt;회사가 꼭 필요로 하는 인재인 그 분의 말은 큰 자극이 되었다. 우선 현재는 실력으로는 어필할 수 없으니, 내 강점인 ‘적극성’을 드러내려 했다. 먼저 출퇴근 시 미소를 띄고 밝은 목소리로 부서 모든 사람들에게 인사를 하려고 노력하고 있다. 일본 회사 특성인지는 모르겠지만, 출퇴근 시에 서로 인사를 잘 안하기 때문에, 인사를 열심히 하면 눈에 띈다. 재택근무가 활성화되어 더욱 서로 얼굴을 볼 일이 없는 지금은 더욱 인사가 중요한 듯 하다.&lt;/p&gt;
+&lt;p&gt;그 외에도 특허 번역을 자진해서 지원하거나, 모르는 게 생기면 선배와 회의를 잡고 물어보기도 했다. 또한 비효율을 찾았을 때는 생각해본 해결책을 다음날까지 제안하려는 목표를 세웠다(물론 업무를 잘 모르기 때문에 아직 비효율이 바로 눈에 들어오지는 않는다). 이런 노력 덕분인지 상사와 선배들에게 좋은 인상을 남기며 금방 부서에 적응한 것 같긴 하다. 앞으로도 이런 점을 신경써서, 실무에 하루빨리 적응하고 싶다.&lt;/p&gt;
+&lt;h2 id=&quot;일본-취업을-준비하는-분들께&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9D%BC%EB%B3%B8-%EC%B7%A8%EC%97%85%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94-%EB%B6%84%EB%93%A4%EA%BB%98&quot; aria-label=&quot;일본 취업을 준비하는 분들께 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;일본 취업을 준비하는 분들께&lt;/h2&gt;
+&lt;p&gt;해외취업은 도전이다. 남들보다 매일 더 노력하고 인내할 각오를 해야한다. 해외 생활은 그만큼 녹록치 않았다.&lt;/p&gt;
+&lt;p&gt;초봉은 적은데, 세금은 많이 떼이기 때문에 저축이 힘들다. 실제 금액만 보면 한국 스타트업에서 일하는 게 더 낫겠다는 생각이 들기도 한다. 또한 나처럼 원하지 않던 부서로 배치되어 꿈꾸던 것과는 다른 일을 할 수도 있다. 같이 들어온 5년 어린 학부생 동기들을 보며, 미래 승진에 대한 걱정을 해야할 수도 있다. 코로나19로 부모님을 뵈러 한국에 못가고, 외로움을 삼켜야 할지도 모른다. 상상했던 것과는 다른 이런 현실에 맞부닥쳐, 결국 해외 생활을 정리하고 한국으로 돌아가시는 분들도 많이 계신다.&lt;/p&gt;
+&lt;p&gt;이런 위기를 감수하실 각오가 되어 있으신지 묻고 싶다. 그럼에도 일본 취업을 결정했다면, 일본에 취업하고자 하는 확실한 목적과 이루고자 하는 분명한 목표를 세우고 일본 취업을 준비했으면 좋겠다. 남들보다 끈기있게 노력하고 도전하실 준비가 되었다면, 분명 후회없는 행복한 해외생활을 하며 즐겁게 일할 수 있을 것이다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2017 JAL Scholarship Program 후기]]></title><description><![CDATA[즐거웠던 23일간의 2017 JAL SCHOLARSHIP PROGRAM 후기.]]></description><link>https://sungpyocho.github.io/posts/2017-jal-scholarship-review</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/2017-jal-scholarship-review</guid><pubDate>Thu, 04 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ae10867850b0633d33eb591afb50b1ea/a3a74/20190703-Japan_Airlines_logo-wordmark.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsTAAALEwEAmpwYAAABzUlEQVQ4y5WSv2/TQBTHn11SIQIZfDnnEkCK7KhVVZImUCF1ZkJqGAlCLKyIn1WHthMDbPwYUOcOiLkgMSCxAerfgMScdqroUEBiCR/nzomJqHAtffS+d++9r9/5LPKPpy9KdiVwMdXBMI5RkutJDRxe/+91kvdS3c9jmjXL6DNQzEw8yuWdMG1osL4O59Az0EPXsy/MaTikQMMWzMEs67ewjN487oS+M7wCn9xlXENfdd/zCyw5Q/84hjdo+A630JioGroLv9BdV5PHMPDd2xdhQNNPJvtG3CH27V4wf+SEsQkt1VAieHq6LG9OKjmwv8Vr2IXnHP0J8T283Ce3Pa28F8XysCchrmqJjBZnpEe0Klo+FJQ3oOljQSWmt+Edhtt7HP+rp+Q3uR9QOmuHiUzGMJowbJhwqomp1EPpBVo+n1DyqFSWV6fKcohJpRYOc+2KrcfQx9CPjZ6yE9ojX8Z4Ax7CA9ZrxNWG0SsLFd2heB3uzRr9jHiH3DI1jzndOvo+3IWbbkLtkbjARhsugmHdoqGDniEajBehjW6y1yG/QJwnJjXJ3iV8zicT27Hdh/0v7vLi0UVM1owNvWiMREetTeiltXF1rC06Qf4A/yC3km8hCv8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/ae10867850b0633d33eb591afb50b1ea/8ac56/20190703-Japan_Airlines_logo-wordmark.webp 240w,
+/static/ae10867850b0633d33eb591afb50b1ea/d3be9/20190703-Japan_Airlines_logo-wordmark.webp 480w,
+/static/ae10867850b0633d33eb591afb50b1ea/e46b2/20190703-Japan_Airlines_logo-wordmark.webp 960w,
+/static/ae10867850b0633d33eb591afb50b1ea/f992d/20190703-Japan_Airlines_logo-wordmark.webp 1440w,
+/static/ae10867850b0633d33eb591afb50b1ea/882b9/20190703-Japan_Airlines_logo-wordmark.webp 1920w,
+/static/ae10867850b0633d33eb591afb50b1ea/d3f94/20190703-Japan_Airlines_logo-wordmark.webp 2272w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/ae10867850b0633d33eb591afb50b1ea/8ff5a/20190703-Japan_Airlines_logo-wordmark.png 240w,
+/static/ae10867850b0633d33eb591afb50b1ea/e85cb/20190703-Japan_Airlines_logo-wordmark.png 480w,
+/static/ae10867850b0633d33eb591afb50b1ea/d9199/20190703-Japan_Airlines_logo-wordmark.png 960w,
+/static/ae10867850b0633d33eb591afb50b1ea/07a9c/20190703-Japan_Airlines_logo-wordmark.png 1440w,
+/static/ae10867850b0633d33eb591afb50b1ea/29114/20190703-Japan_Airlines_logo-wordmark.png 1920w,
+/static/ae10867850b0633d33eb591afb50b1ea/a3a74/20190703-Japan_Airlines_logo-wordmark.png 2272w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/ae10867850b0633d33eb591afb50b1ea/d9199/20190703-Japan_Airlines_logo-wordmark.png&quot;
+            alt=&quot;Jal Logo&quot;
+            title=&quot;Jal Logo&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;JAL 스칼라십 프로그램에 지원하려는 여러분 안녕하세요! 저는 전공은 중국어이지만 일본과의 문화교류에 항상 관심이 많았기에, JAL 스칼라십 프로그램은 공고가 날 때부터 꼭 지원하고자 마음을 먹었습니다. 무엇보다 ‘항공사’와 ‘국제교류’에 관심이 많은 저에게 일본항공 재단에서 아시아와 오세아니아의 대학생들을 초대해 국제교류의 장을 만들어준 것은, 거부할 수 없는 매력으로 다가왔습니다. 17년도의 주제는 ‘생각해보자! 아시아의 환경, 세계의 환경 ~지금, 우리들이 환경을 위해 할 수 있는 것~‘이었습니다. 처음 이 주제를 받고 에세이를 구상했을 때는 정말 어떤 내용으로 글을 전개해야 할지 걱정이 앞섰지만, 결국 자료조사와 수많은 고민을 거쳐 ‘녹색 소비(Green Consumption)’로 제 주장을 정리했습니다. 이때만 해도 제가 최종면접을 보게 되고, 선발될 줄은 상상도 못 했습니다. 면접 후 학교에서 수업 중 “일본항공입니다. 합격하셨습니다.”라는 전화를 받고 정말 기뻐했던 것이 아직도 생생합니다.&lt;/p&gt;
+&lt;p&gt;몇 달 후, 일본항공 측에서 마련해준 항공편을 타고 전 세계에서 뽑힌 각국 대표 스칼라들이 도쿄로 모였습니다. 프로그램은 크게 도쿄와 이시카와현 두 곳에서 진행됩니다. 도쿄에서 진행되는 첫 1주일의 전반 프로그램에서는 해외 및 일본 스칼라들과 함께 자기소개와 국가 소개를 하고, 강의를 들으며, 조를 짜서 발표를 준비합니다. 특히 저는 프로그램 전까지만 해도 동남아시아에 대해 잘 몰랐었는데, 동남아시아 친구들의 소개를 들으며 각국의 서로 다른 특색에 대해 알 수 있었습니다.&lt;/p&gt;
+&lt;figure class=&quot;float-left&quot; style=&quot;width: 240px&quot;&gt;
+	&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 355px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/8f61b/20190704-img1.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 122.08333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHNtBKhx4h0CP/EAB0QAAEEAgMAAAAAAAAAAAAAAAABAhESAxMUISL/2gAIAQEAAQUC1ORNTzjuMXRtSH3m/mS8n//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/ASP/xAAdEAAABQUAAAAAAAAAAAAAAAAAARExMgIDECAi/9oACAEBAAY/Ao5SpjJxIcXDTT//xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhURBBYXH/2gAIAQEAAT8hqE0mrFKv8hxlB1qpSzHaL2I1w/kyDng4esn/2gAMAwEAAgADAAAAEHfAP//EABcRAQEBAQAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8Q2Nrqv//EABgRAAIDAAAAAAAAAAAAAAAAAAARARAh/9oACAECAQE/ENCgar//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAhMUFRYYHB/9oACAEBAAE/ELJHBltfyYgbLoK8+J8xQqSvhxCbRJUVujo4NZXGnVCnQX2d4MhBNLeUGPOP24tCPY7xyxkBFuf/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source srcset=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/8ac56/20190704-img1.webp 240w,
+/static/92ed112692ace28e7a58ebb5cc088eb0/918eb/20190704-img1.webp 355w&quot; sizes=&quot;(max-width: 355px) 100vw, 355px&quot; type=&quot;image/webp&quot;&gt;
+          &lt;source srcset=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/09b79/20190704-img1.jpg 240w,
+/static/92ed112692ace28e7a58ebb5cc088eb0/8f61b/20190704-img1.jpg 355w&quot; sizes=&quot;(max-width: 355px) 100vw, 355px&quot; type=&quot;image/jpeg&quot;&gt;
+          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/92ed112692ace28e7a58ebb5cc088eb0/8f61b/20190704-img1.jpg&quot; alt=&quot;Haneda Airport&quot; title=&quot;Haneda Airport&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+	&lt;figcaption&gt;JAL &amp;#xD558;&amp;#xB124;&amp;#xB2E4; &amp;#xC815;&amp;#xBE44;&amp;#xACF5;&amp;#xC7A5;&amp;#xC5D0;&amp;#xC11C;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;처음에는 물론 다른 스칼라들과 어색했지만, 매일 같이 생활하고 같이 밥을 먹으며 급격히 친해질 수 있었습니다. K-POP을 통해 한국을 접하고 좋아하던 친구가 많았던 덕분인지, 많은 친구가 호감을 느끼고 스스럼없이 다가와 주었습니다. 심지어 한국어를 할 줄 아는 친구도 있어 깜짝 놀라기도 했습니다. 초반 프로그램이 이른 아침부터 강의와 토론, 토의 위주로 짜여져 있어 지치기도 했지만, 그래도 밤마다 스칼라들끼리 방에 옹기종기 모여 먹고 마시며 친목을 다졌던 것이 아직도 기억에 남습니다.&lt;/p&gt;
+&lt;p&gt;그 후 JAL 항공기를 타고 이시카와현 노토반도에 위치한 코마츠 공항으로 이동한 후, 이시카와 프로그램이 시작되었습니다. 초반에는 하쿠산시에서 자연문화체험 및 지역 가정 방문, 동물원 견학, 하이쿠 창작 등 다채로운 문화체험 활동을 할 수 있었습니다. 스칼라들과 본격적으로 합숙하며 친해지고, 한국 스칼라들과 장기자랑을 준비하며 도쿄에서의 빡빡한 일정에 약간 지쳤던 심신을 달랬습니다. 이후 카나자와 시로 이동하여 며칠 뒤 있을 ‘아시아 포럼’을 위해, 현지 대학생들과 조를 꾸려 정말 열심히 발표를 준비했습니다. 저희 조의 주제는 ‘관광객의 증가와 쓰레기 문제’였는데, 자료 조사를 위해 카나자와 시청과 호텔, 관광지 등을 방문해 담당 직원을 인터뷰하고, 자료를 수집했습니다. 사실 평범한 외국인 대학생이 일본의 시청 공무원을 인터뷰한다는 것은 생각하기 힘든 일인데, 이러한 인터뷰를 우리 힘으로 직접 일궈냈다는 것이 정말 자랑스러웠고 보람찼습니다. 4일이라는 짧은 시간에 매일 자정까지 준비하고 발표를 연습한 끝에, 결국 발표를 실수 없이 잘 해낼 수 있었습니다. 저는 팀의 리더를 맡았던 터라 매일 조별 토의가 끝나면 밤늦게 따로 리더들끼리 모여 보고회에 참석해야 하는 등 힘든 점도 있었지만, 지금 돌아보면 정말 보람찬 시간이었습니다.&lt;/p&gt;
+&lt;figure class=&quot;float-right&quot; style=&quot;width: 300px&quot;&gt;
+	&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 355px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/8f61b/20190704-img2.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 76.25%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgMG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAG0Lsinhzxl/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxMEEv/aAAgBAQABBQLOsQ11StQF6HbUM09MJ//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AYr/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAECAQE/Abll/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERQRASkSH/2gAIAQEABj8C9jhXCEOGbUsf/8QAGxAAAgMBAQEAAAAAAAAAAAAAAAERMUEhYeH/2gAIAQEAAT8hyA+iMgpvCRxLiH+7Zsez2z//2gAMAwEAAgADAAAAEMDf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxCMIR//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EMLRs9P/xAAcEAEAAgMBAQEAAAAAAAAAAAABESEAMUFRYZH/2gAIAQEAAT8QKsPcq1hpoSwekaxSlNxc8J1iFAlT88xJRZGlTNH64hEwVBxK5//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source srcset=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/8ac56/20190704-img2.webp 240w,
+/static/38a61b3f0beacddbffe7afe4f566bd5c/918eb/20190704-img2.webp 355w&quot; sizes=&quot;(max-width: 355px) 100vw, 355px&quot; type=&quot;image/webp&quot;&gt;
+          &lt;source srcset=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/09b79/20190704-img2.jpg 240w,
+/static/38a61b3f0beacddbffe7afe4f566bd5c/8f61b/20190704-img2.jpg 355w&quot; sizes=&quot;(max-width: 355px) 100vw, 355px&quot; type=&quot;image/jpeg&quot;&gt;
+          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/38a61b3f0beacddbffe7afe4f566bd5c/8f61b/20190704-img2.jpg&quot; alt=&quot;JAL Symposium&quot; title=&quot;JAL Symposium&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+	&lt;figcaption&gt;JAL &amp;#xC2EC;&amp;#xD3EC;&amp;#xC9C0;&amp;#xC6C0;&amp;#xC5D0;&amp;#xC11C; &amp;#xCD5C;&amp;#xC6B0;&amp;#xC218;&amp;#xC0C1;&amp;#xC744; &amp;#xBC1B;&amp;#xACE0; &amp;#xB4E4;&amp;#xB72C; &amp;#xC6B0;&amp;#xB9AC;&amp;#xB4E4;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;도쿄로 돌아와서는 이시카와현과 마찬가지로 일본항공 본사에서의 공개 심포지움 발표 준비를 해야 합니다. 이시카와에서 리더를 맡았던 저는 리더는 맡고 싶지 않았지만, 팀의 유일한 남자라는 이유로 어쩔 수 없이 리더가 되었습니다. 도쿄 조의 주제는 ‘도덕교육~자발적인 도덕교육의 도입~’으로 결정했는데, 아무래도 관념적인 부분을 다루다 보니 현장조사와 자료조사가 크게 필요하지 않아 제대로 완성될까 하는 걱정이 앞섰습니다. 그러나 우려와는 달리 조원들이 모두 자신의 의견을 적극적으로 개진하고, 논의에 논의를 거쳐 논리를 탄탄하게 세운 덕분에 성공적으로 발표를 마치고 최우수상까지 받는 영광을 얻게 되었습니다.&lt;/p&gt;
+&lt;p&gt;물론 프로그램의 중점은 이처럼 다국적 조별모임 및 토의에 맞춰져 있지만, 알차고 기억에 오래 남는 문화체험과 견학 프로그램도 많았습니다. 카나자와에서는 유카타를 입어보고 노를 부르고 춤춰보는 등 일본의 전통문화를 체험할 수 있었습니다. 주제가 ‘환경’이었기에, 도쿄에서는 ‘환경절약 기술’에 맞춘 견학 프로그램이 준비되어 있었습니다. JR동일본사와의 협력을 통해, 신칸센 청소업체인 TESSEI사를 견학하고, 마쿠하리역의 에너지절약 방법을 살펴볼 수 있는 귀중한 시간을 가졌습니다. 일본항공 정비공장 견학도 했는데, 일본항공이 환경보호를 위해 얼마나 다양한 노력을 기울이고 있는지 잘 알 수 있었습니다.&lt;/p&gt;
+&lt;p&gt;지금 돌이켜보면, 23일간 JAL 스칼라십 프로그램을 통해 얻은 가장 소중한 보물은 결국 사람과 사람과의 인연, 즉 「絆(키즈나)」가 아닌가 싶습니다. 프로그램을 통해 만난 세계 각국의 스칼라들은 정말 한 명 한 명 모두 멋지고 매력적인 사람이었습니다. 스칼라들과의 소통하고, 우정을 쌓으며 만든 소중한 인연은, 앞으로도 몇십 년, 아니 평생 지속할 것입니다. 공식 프로그램을 마치는 공개 심포지움 날, 저는 꿈을 발표하는 자리에서 이렇게 말했습니다. “저의 꿈은 모두와 다시 재회하는 것입니다. 만약 그럴 수 없다면, 마지막 한 명까지 여러분들을 찾으러 갈 거예요!”&lt;/p&gt;
+&lt;p&gt;프로그램이 끝난 후에도. 스칼라들은 서로의 국가를 방문하며 다시 만나고 있습니다. 요즘 저는 2017년 스칼라들의 REUNION을 기획하며 올해 여름에 다시 만날 날을 고대하고 있습니다. 이 외에도 도쿄, 카나자와 홈스테이에서는 정말 자상하시고 좋은 가족분들을 많이 만나 행복한 추억들을 많이 만들 수 있었습니다. 아시아와 일본 어디를 가든, 저를 반겨줄 사람들이 있다는 것에 정말 행복합니다. 이처럼 평생 남을 추억과 인연을 만들어 주신 JAL 재단과 일본항공 한국지점에 감사드립니다. 이 글을 보고 계신 여러분도 2018년 JAL 스칼라십 프로그램에 꼭 지원하셔서 평생 남을 많은 추억과 이야기와 인연을 만들고 오시면 좋겠습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2017 JAL Scholarship Program 면접후기]]></title><description><![CDATA[2017 JAL SCHOLARSHIP PROGRAM의 1차 지원부터 3차 최종합격까지의 과정을 써 봤습니다. JAL 스칼라십 프로그램 후기가 인터넷 상에 굉장히 적어 준비하기 힘드실 텐데요, 제 기록도 남길 겸 정보공유도 하는 차원에서 이 후기를 올립니다.]]></description><link>https://sungpyocho.github.io/posts/2017-jal-scholarship</link><guid isPermaLink="false">https://sungpyocho.github.io/posts/2017-jal-scholarship</guid><pubDate>Wed, 03 Jul 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;2017 JAL SCHOLARSHIP PROGRAM의 1차 지원부터 3차 최종합격까지의 과정을 써 봤습니다. JAL 스칼라십 프로그램 후기가 인터넷 상에 굉장히 적어 준비하기 힘드실 텐데요, 제 기록도 남길 겸 정보공유도 하는 차원에서 이 후기를 올립니다. 기본적으로 회고록 형식이라 글이 조금 길고, 감정서술이 많을 수 있습니다. 양해 바랍니다.&lt;/p&gt;
+&lt;p&gt;2학년 때였을까. 일본항공에서 온 JAL SCHOLARSHIP PROGRAM 홍보 메일이 내 눈길을 사로잡았다. 1학년 때 한일성신학생교류 등 국가 및 민간단체에서 지원하는 국제교류프로그램에 참여한 후, 이러한 프로그램에 관심을 가졌기 때문에 눈독을 들이고 있었다. 그러나 2학년 2학기는 군대에 가기로 예정되어 있는 시기였고, 어쩔 수 없이 지원은 제대 후로 미룰 수 밖에 없었다.&lt;/p&gt;
+&lt;p&gt;군대 입대 후, 잡지 ‘世界’ 및 여러 원서 책을 읽으며 짬짬이 일본어 공부를 했고, JLPT N1에도 도전해서 합격했다. 제대 후 복학해서 정신없이 한 학기를 보내니, 벌써 2017년이 성큼 다가와 있었다. 이번에는 꼭 한 번 JAL 스칼라십에 지원하자는 마음이 있었기에, 1월 1일부터 주기적으로 소식을 확인했다.&lt;/p&gt;
+&lt;h2 id=&quot;지원--1차-서류전형&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%A7%80%EC%9B%90--1%EC%B0%A8-%EC%84%9C%EB%A5%98%EC%A0%84%ED%98%95&quot; aria-label=&quot;지원  1차 서류전형 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;지원 ~ 1차 서류전형&lt;/h2&gt;
+&lt;p&gt;결국 1월 중순이 되니 선발 안내 공고문이 발표되었다. 기한은 3월 10일 금요일까지였다. 나중에 써도 된다는 생각으로 미루다가 결국 3월 10일 저녁에 부랴부랴 쓰게 되었다. 근데 기한을 보니 응? 뭔가 이상한 거였다. 알고 보니 그 전날에 일본항공 측에서 기한을 3월 12일 일요일까지 연기한 것이었다. 덕분에 다행히 천천히 시간을 들여 쓸 수 있었다. 만약 일본항공 측이 기한을 미루지 않았더라면, 합격은 고사하고 지원조차 할 수 없었을지도 모른다(…) 천운이었다.&lt;/p&gt;
+&lt;p&gt;서류 전형은 간단하게, 인터넷 접수로 이루어진다. 해외여행 등의 해외경험을 쓰는 문항 하나, 지원 동기를 묻는 문항 하나였다. 의외로 가벼운 문제라 시간이 덜 걸릴 줄 알았는데, 하고 싶은 말이 모두 전달될 수 있도록 쓰다 보니 시간이 많이 걸렸다. 아래 사항에 신경쓰면서 작성했다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;JAL 스칼라십 프로그램 전형 특성상, 1차 서류전형 이후에는 최종 면접 전에 자신이 어떤사람인지 소개할 수 있는 기회가 전혀 없다. 그래서 이 서류가 나중에 합격 당락을 결정하는 데 큰 영향을 끼칠 것으로 생각했다. 그만큼 중요한 자기소개서이므로, ‘자신이 어떤 사람인지’, ‘자신의 장점은 무엇인지’를 글에 어떻게 녹여낼지 더욱 고심했다.&lt;/li&gt;
+&lt;li&gt;문항 자체가 요구하는 것만 쓰는 것이 아닌, 심사자의 마음을 사로잡기 위한 내용을 더 추가했다. 예를 들어 ‘해외여행 등의 해외경험을 쓰시오’에서는 단순히 여행만 나열하는 게 아니라, 의미있는 해외활동과 그 활동에서의 내 역할을 썼다. 또한 이것이 왜 나를 뽑아야 하는지와 연결되도록 마무리도 추가했다. 지원 동기 란에도 지원 동기만 쓰는 게 아닌, 동기-계획-포부로 이어지도록 글을 구성했다. JAL 스칼라십 프로그램이 아니면 안되는 이유를 밝히고, 구체적인 활동 계획이 드러나게 신경썼다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;이렇게 오랜 시간을 들여 작성하다 보니, 1차 합격은 왠만하면 하겠지라는 생각이 들었다. 물론 1차 합격 발표 당일, 일본항공측에서 늦게 발표하는 바람에 떨어진 줄 알고 실망하고 마음졸이던 해프닝이 있었지만… 2차 시험이 목요일인데, 1차 합격자 발표가 화요일에 났기 때문에 떨어진지 붙은지도 모른 채 에세이 내용에 대해 자료를 모았던 기억이 난다.&lt;/p&gt;
+&lt;h2 id=&quot;2차-에세이-전형&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2%EC%B0%A8-%EC%97%90%EC%84%B8%EC%9D%B4-%EC%A0%84%ED%98%95&quot; aria-label=&quot;2차 에세이 전형 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2차 에세이 전형&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://s3-ap-northeast-2.amazonaws.com/sungpyo.com/2019/07/jal_mail.jpg&quot; alt=&quot;jal mail&quot;&gt;&lt;/p&gt;
+&lt;p&gt;2차 심사는 3월 16일! 14:00~16:00였다. 지금 생각해보면 에세이 준비 과정이 가장 힘들었다. 2시에 시험인데 바로 직전인 12시에 글을 아예 뒤엎었을 정도니… 17년도 주제는&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;‘생각해보자! 아시아의 환경, 세계의 환경 ~지금, 우리들이 환경을 위해 할 수 있는 것~’&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;이었다. 생각해보면 뻔했다. 절약, 절수, 재활용같은 뻔한 이야기를 쓰면 바로 탈락이라는 것. 독특하고 설득력 있는 주제이면서, 기-승-전-결 구조를 제대로 갖춰야 했다. 일상 생활에서 굳이 시간을 많이 들이지 않으면서도 ‘우리가 직접’ 실천할 수 있는게 무엇일까? 고민하고 또 고민했다. 에세이가 결국 요구하는 것은 에세이를 쓰는 ‘우리’ 수준에서 할 수 있는 일이기 때문이다. 결국 찾아낸 답은 ‘녹색 소비(Green Consumption)‘이었다. 녹색 소비란, 일상생활에서 식품을 구입하거나 서비스를 이용할 때, 친환경 상품을 선택하는 소비이다.&lt;/p&gt;
+&lt;p&gt;본론을 구상하기 위해서는 철저한 자료조사가 필요했다. 일본기업에 에세이를 제출하는 것이기 때문에, 예시나 용어가 실제 일본에서 사용되는 말인지 계속 검토했다. 독자의 입장에서 생각했다. 녹색 소비의 구체적인 예로는1.구체적인 환경보전 CSR 계획을 제시하고, ISO 26000, ‘ECO FIRST’ 등 환경인증을 받은 기업의 상품과 서비스를 이용한다. (예시: 항공권 구매)2. 식재를 구매할 때 탄소발자국 마크에 표시된 이산화탄소 배출량을 비교하고 구매한다.(예시: 지역 농산물, 지산지소 개념)을 들고, 다음 문단에는 이러한 소비를 소비자가 자발적으로 SNS로 발신하는 것과, 그 효과에 대해 기술했다.&lt;/p&gt;
+&lt;p&gt;이런 식으로 본론을 기술하고, 그에 맞는 서론과 결론을 구성했다. 문제는 서론 시작부분과 끝맺음 부분에 어떤 것을 써야 좋을까 결정을 못해서 시험 직전까지 엎고 또 엎었다. 아는 기자 누나와 친한 친구에게 문의하면서, 시험 당일 오전에 글 구성 자체를 뒤엎기도 했다. 애초에 제대로 준비할 시간이 얼마 없었다.&lt;/p&gt;
+&lt;p&gt;시험 당일 수업 2, 5교시를 다 빼면서까지 정신없이 준비하며 달려간 곳은 바로 명동 신한은행이었다. 2층 회의실에서 시험이 진행되었는데, 예상대로 시험 응시 인원은 많았다. 30여명 정도였다. 시험 전 노트에다 다시 한번 써왔던 내용을 다시 적어보았다. 시험 시간은 2시간이었다. 시험 시작 후에는 주어진 연습노트에 그 적은 내용을 한국어로 쭉 적은 다음에 남은 한 시간동안 작성했다. 시험이 시작되자마자 바로 에세이를 쓰는 사람들도 있었는데, 시간이 넉넉한 편이기 때문에 먼저 개요를 작성한 후에 옮기는 것을 추천한다.&lt;/p&gt;
+&lt;p&gt;에세이를 쓰고 나서는 내가 잘 쓴건지 회의감이 들면서 긴장이 다 풀어졌다. 그냥 2차까지 와서 쓴 것도 좋은 경험이라고 생각하자는 마음이 들었다. 주말이 지나고, 화요일이 되었다. 1차 발표가 화요일이었기 때문에, 2차 발표 또한 시험 다음 주 화요일에 나올 거라고 생각했다. 그런데 3시 반이 지나도 나오지 않아서 일본항공 담당자 분께 직접 전화를 걸었다. 떨어지면 떨어진 거지 뭐, 라는 반 포기의 심정이었다. 근데 들려온 대답은 의외였다.&lt;/p&gt;
+&lt;p&gt;“2차 합격하셨습니다. 내일 모레 2:20~2:40에 프레지던트 호텔 일본항공 본사에서 최종면접이 있으니, 2시 10분까지 꼭 정장 차림으로 오세요. 면접은 일본어로 진행됩니다.”&lt;/p&gt;
+&lt;p&gt;화요일에 합격 여부를 알려주니 이틀만에 준비할 수 밖에 없었다. 근데 화요일은 저녁에 소개팅(…;;;)이 미리 잡혀 있어 준비를 할래야 할 수가 없었다. 점입가경으로 정장 자체도 없었다. 주변에 빌리고자 해도 빌릴 수가 없었다. 결국 최종 면접 전날인 수요일 저녁에, 절친한 일본 친구와 같이 동대문에 가서 거금을 주고 정장을 샀다. 그날 밤엔 학교로 돌아와 둘이서 고기를 먹으며 나올 문제와 답을 생각해 봤다. 이미 사회인이 된 친한 선배도 전화를 걸어주면서까지 물심양면으로 도움을 줬다.&lt;/p&gt;
+&lt;h2 id=&quot;3차-최종면접&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3%EC%B0%A8-%EC%B5%9C%EC%A2%85%EB%A9%B4%EC%A0%91&quot; aria-label=&quot;3차 최종면접 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3차 최종면접&lt;/h2&gt;
+&lt;p&gt;최종면접 전날 저녁은 그렇게 양복을 사고, 정신없이 다음날 나올 문제와 답 목록을 구성하며 지나갔다. 당일날도 정신없긴 마찬가지였다. 아침 10시 반까지 수업에 가야 했는데, 집에서 준비하다 보니 지각할 것 같아서 그 날도 그냥 자체휴강했다. 2주 연속 휴강으로 학점은 안녕… 일본 기업의 최종 면접이었기에 인터넷에서 일본식 면접 영상을 찾아보고, 연습했다.&lt;/p&gt;
+&lt;p&gt;면접 도착하기 전도 참 스릴이 넘쳤던 것이, 한 40분 전에 집을 나섰는데 지하철 시간표를 보니 제때 도착하긴 틀릴 것 같아 택시를 탔다. 택시 기사님을 재촉하며 처음 입어보는 정장 차림으로 정신없이 준비한 원고를 택시 안에서 읽어댔다. 결국 2시 10분까지 도착인데 2시 4분에 서울 시청 맞은편 보도에 도착해서 프레지던트 호텔까지 뛰어갔다.&lt;/p&gt;
+&lt;p&gt;일본 항공 본사에 들어가니, 이미 대기하시고 계신 분이 있었다(나중에 알고보니 같이 합격했다!). 한명씩 면접을 보는 줄 알고 앉아서 정신없이 준비를 하고 있었는데, 그 분께서 면접 시간이 어떻게 되냐고 물어보셨다. 면접 시간이 같았다. 알고 보니 면접은 한국인 면접관 2분과 일본인 면접관 2분이 2명을 20분간 면접하는 형식이었다. 전체 3차 응시자는 12명이고, 그 중에 3명만 뽑히는 것이었다. 최종경쟁률이 4:1이라니, ‘쉽지 않겠구나.’ 라는 생각이 들었다.&lt;/p&gt;
+&lt;p&gt;얼마 지나지 않아 앞 조의 면접이 끝났다. “면접 대기하겠습니다.”라는 목소리가 들려왔다. 문 앞에 서니, 갑자기 긴장이 몰려왔다. 그래도 해야 할 것은 해야 해. 전날과 당일 본 면접 동영상을 상기했다. 들어가기 전과 나가기 전의 인사도 물론 중요하지만, 중요한 것은 ‘미소’였다. 처음부터 끝까지 미소를 잃지 않고, 면접관에게 좋은 인상을 주는 것이 중요했다. 물론 면접 중간중간 질문에 휘말리니 어느새 난 미소 없이 진지하게 답변하고 있었다. 아이고.&lt;/p&gt;
+&lt;p&gt;정작 들어가니 예상 못한 질문이 많이 나왔다. “자신이 느꼈던 한국과 일본의 차이점은 뭐라고 생각하십니까?”, “한국의 강점은 무엇이라고 생각하는가?” 등 전혀 생각해보지 않았던 문제가 나왔다. 지금 생각해보면 한국 대표로서 당연한 질문인데도… 결국 임시응변으로 ‘기업의 사회공헌 차이’, ‘정열적이고 성실한 한국인’에 대해 이야기했다. 그 당시 말하면서도 이건 좀 부족한데? 라는 생각이 들었다. 준비하시는 분들은 이런 임시응변을 하지 마시고, 미리 이 질문에 대한 답을 잘 구상하시면 좋은 점수를 받을 수 있을 것 같다.&lt;/p&gt;
+&lt;p&gt;다른 질문은 자기소개, 미래의 포부 등으로 평범한 면접 질문이었다. 자기소개에서 어떻게 인상을 강하게 남길 수 있을까 고민하다가, 결국 내 이름의 한자 이야기로 시작했다. ‘이름의 한자에서 보듯, 저는 이런 성실하고 진지한 사람입니다’라는 것을 어필했다. 택시에서 생각해 낸 방법이었다. 면접관이 이름을 한 번 더 보면서 기억하는 효과도 있어서 의외로 좋은 전략이었던 것 같다.&lt;/p&gt;
+&lt;p&gt;뒤에는 준비한 대로 말했지만, 중간중간에 나사 빠진 듯 기억 안나는 부분이 많아 임시응변으로 메꾸기도 했다. 초반에 갑자기 머리가 하얘져서 “죄송합니다. 시간을 조금만 더 주십시오.”라고 말하기도 했는데, 다행히 한국 면접관께서 좋은 질문을 해주셔서&lt;/p&gt;
+&lt;p&gt;의외로 중문과란 것과, 자신의 장점과 단점 질문에 대한 답변을 잘 한 것이 좋은 결과로 이어진 데 큰 역할을 한 것 같다. 면접관 분들이 중문과인데 일본어를 독학한 ‘도전 정신’을 높게 사신 듯 했다. 물론 “도대체 중국어 공부는 언제하나요?(주변에서 항상 듣는 질문이긴 하다…)”라는 질문도 받긴 했다. 하하… 마지막에 하고 싶은 말에서는 앞에 말하지 못했던 포부, 계획을 강조했다. 수업도 빠져가면서 준비를 이렇게 했는데, 준비해 놓은 좋은 말을 말하지 않으면 계속 후회할 것 같았다.&lt;/p&gt;
+&lt;p&gt;면접은 의외로 금방 끝났다. 면접이 끝나니 앞에서 제대로 못했던 답변에 대한 후회가 계속 들면서 그 생각이 머리 속을 지배했다. 아 더 잘 말할 수 있었는데… 이것만 말했으면 합격하겠다는 안심이 들 것 같은데…라는 생각이 계속 맴돌았다. 면접이 끝나고 학교로 다시 수업을 들으러 돌아가는 길에도 한동안 정신이 없었다.&lt;/p&gt;
+&lt;p&gt;학교에 돌아와, 친한 중국 형과 만나 면접 이야기를 나눴다. 머릿속엔 면접 생각뿐이고 면접때 바짝 긴장해서 일본어를 말하다 보니, 한국어나 중국어보다 일본어가 먼저 나왔다. 형은 계속 면접 생각만 하면서 카톡 등으로 핸드폰 화면이 켜질 때마다 깜짝깜짝 놀라는 나를, 응원해주고 안심시켜줬다. 거금을 들여 정장까지 사고, 시간을 많이 투자해서 열심히 준비한 것을 생각하니 마음을 비우기는커녕 반드시 붙고싶다, 꼭 붙었으면 좋겠다고 하는 열망이 강했다. 형과 헤어지고 수업에 들어갔다. 수업 중에도 계속 ‘전화가 올까?’ 라는 생각으로 집중할 수가 없었다. 긴장이 조금 풀리고 조별 모임을 하는 도중, 진동이 울렸다. 일본항공이었다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“일본항공입니다. 최종 합격하셨습니다. 진심으로 축하드립니다.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;이렇게 나의 23일간의 JAL 스칼라십 프로그램은 시작되었다.&lt;/p&gt;</content:encoded></item></channel></rss>
