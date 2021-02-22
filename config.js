@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://sungpyocho.github.io',
   pathPrefix: '/',
-  title: 'pyopyo',
+  title: 'sungpyo.cho',
   subtitle: '일본 직장인 1년차 분투기',
   copyright: '© 2020-2021 Sungpyo Cho',
   disqusShortname: 'sungpyocho',
